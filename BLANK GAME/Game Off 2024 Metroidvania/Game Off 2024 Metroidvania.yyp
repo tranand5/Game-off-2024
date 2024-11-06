@@ -75,8 +75,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"roomId":{"name":"rm_enemy_and_pickups","path":"rooms/rm_enemy_and_pickups/rm_enemy_and_pickups.yy",},},
+    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
