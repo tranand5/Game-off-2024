@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Enemy","order":1,"path":"folders/Objects/Enemy.yy",},
+    {"name":"Pickups","order":2,"path":"folders/Objects/Pickups.yy",},
+    {"name":"Enemy","order":1,"path":"folders/Sprites/Enemy.yy",},
+    {"name":"Pickups","order":2,"path":"folders/Sprites/Pickups.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"rm_enemy_and_pickups","order":1,"path":"rooms/rm_enemy_and_pickups/rm_enemy_and_pickups.yy",},
+  ],
+}

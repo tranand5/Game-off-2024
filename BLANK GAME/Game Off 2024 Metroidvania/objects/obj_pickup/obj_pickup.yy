@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"initializer",
+  "%Name":"obj_pickup",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"initializer",
+  "name":"obj_pickup",
   "overriddenProperties":[],
   "parent":{
-    "name":"Managers",
-    "path":"folders/Objects/Managers.yy",
+    "name":"Pickups",
+    "path":"folders/Objects/Pickups.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_pickup",
+    "path":"sprites/spr_pickup/spr_pickup.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
