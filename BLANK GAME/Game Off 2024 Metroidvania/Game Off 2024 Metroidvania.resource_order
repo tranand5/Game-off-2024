@@ -1,13 +1,13 @@
 {
   "FolderOrderSettings":[
     {"name":"Enemy","order":1,"path":"folders/Objects/Enemy.yy",},
+    {"name":"Camera","order":9,"path":"folders/Objects/Camera.yy",},
     {"name":"Pickups","order":2,"path":"folders/Objects/Pickups.yy",},
     {"name":"Transitions","order":7,"path":"folders/Objects/Transitions.yy",},
     {"name":"Enemy","order":1,"path":"folders/Sprites/Enemy.yy",},
     {"name":"Pickups","order":2,"path":"folders/Sprites/Pickups.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_camera","order":8,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_transition_linear_blur","order":1,"path":"objects/obj_transition_linear_blur/obj_transition_linear_blur.yy",},
     {"name":"obj_transition_parent","order":2,"path":"objects/obj_transition_parent/obj_transition_parent.yy",},
     {"name":"obj_transition_pixelate","order":3,"path":"objects/obj_transition_pixelate/obj_transition_pixelate.yy",},
