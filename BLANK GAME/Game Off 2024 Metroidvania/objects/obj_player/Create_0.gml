@@ -1,5 +1,5 @@
-move_speed = 4;
-jump_speed = 16;
+move_speed = 7;
+jump_speed = 18;
 grav = 1;
 x_direction = 0;
 x_speed = 0;
