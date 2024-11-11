@@ -14,7 +14,7 @@ x_speed = x_direction * move_speed;
 if (CheckForAnyGroundTile(x, y + 2) == true)
 {
 	y_speed = 0;
-	if (!CheckForAnyGroundTile(x + x_speed, y + 2) && CheckForAnyGroundTile(x + x_speed, y + 10, obj_ground))
+	if (!CheckForAnyGroundTile(x + x_speed, y + 2) && CheckForAnyGroundTile(x + x_speed, y + 10))
 	{
 		y_speed = abs(x_speed);
 		x_speed = 0;
@@ -32,8 +32,19 @@ else
 	}
 }
 
-//	Sprite Switcher and Movement Modifier
-state = StateCheck();
+//	State Machine
+if (state != "dash")
+{
+	state = StateCheck();
+}
+//player inputs dash
+if ((can_dash == true) && (keyboard_check_pressed(vk_shift)))
+{
+	last_state = state;
+	state = "dash";
+	alarm[0] = room_speed * 0.25;
+	can_dash = false;
+}
 switch (state)
 {
 	case "flat":
@@ -69,9 +80,19 @@ switch (state)
 		sprite_index = spr_player_airborn;
 	break;
 	
+	case "dash":
+		image_speed = 0.35;
+		move_speed = dash_speed;
+	break;
+	
 	default:
 		//
 	break;
+}
+
+if (dash == true)
+{
+	//
 }
 
 //	Move Player
@@ -80,7 +101,11 @@ move_and_collide(x_speed, y_speed, all_ground_tiles);
 //	Fix Player Glitching into Ground
 if (place_meeting(x, y, obj_ground))
 {
-	y -= 1;
+	y -= 2;
 }
+
+//	Dash System
+
+
 //	flip sprite based on move direction
 //if (move_x != 0) image_xscale = sign(move_x);
