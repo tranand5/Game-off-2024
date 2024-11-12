@@ -1,3 +1,1 @@
-/// @description Insert description here
-// You can write your code in this editor
-enemy_speed = 0.5;
+enemy_speed = random_range(0.5, 2);
