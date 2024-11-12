@@ -1,10 +1,12 @@
 {
   "FolderOrderSettings":[
+    {"name":"HUD","order":12,"path":"folders/Objects/HUD.yy",},
     {"name":"Pickups","order":2,"path":"folders/Objects/Pickups.yy",},
     {"name":"Player, Enemies, NPcs","order":11,"path":"folders/Objects/Player, Enemies, NPcs.yy",},
     {"name":"Start Menu","order":10,"path":"folders/Objects/Start Menu.yy",},
     {"name":"Transitions","order":7,"path":"folders/Objects/Transitions.yy",},
     {"name":"Enemy","order":1,"path":"folders/Sprites/Enemy.yy",},
+    {"name":"HUD","order":5,"path":"folders/Sprites/HUD.yy",},
     {"name":"Pickups","order":2,"path":"folders/Sprites/Pickups.yy",},
     {"name":"Start Menu","order":4,"path":"folders/Sprites/Start Menu.yy",},
   ],
