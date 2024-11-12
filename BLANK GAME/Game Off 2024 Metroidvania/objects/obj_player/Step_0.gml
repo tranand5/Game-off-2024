@@ -90,7 +90,7 @@ switch (state)
 	break;
 }
 
-if (dash == true)
+if (can_dash == true)
 {
 	//
 }

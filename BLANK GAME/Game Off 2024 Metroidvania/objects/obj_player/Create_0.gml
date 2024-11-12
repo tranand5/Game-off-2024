@@ -9,6 +9,7 @@ x_direction = 0;
 x_speed = 0;
 y_speed = 0;
 can_dash = true;
+state = "flat";
 
 //create array holding all ground tile types
 all_ground_tiles = array_create(3, obj_ground);
