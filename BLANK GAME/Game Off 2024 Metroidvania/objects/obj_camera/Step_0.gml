@@ -1,9 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
 if (follow != noone)
 {
 	xFollow = follow.x;
-	yFollow = follow.y;
+	yFollow = follow.y - 50;
 }
 x += (xFollow - x)/25;
 y += (yFollow - y)/25;

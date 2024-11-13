@@ -48,36 +48,36 @@ if ((can_dash == true) && (keyboard_check_pressed(vk_shift)))
 switch (state)
 {
 	case "flat":
-		sprite_index = spr_player;
-		move_speed = 6;
+		//sprite_index = spr_player;
+		move_speed = 5;
 	break;
 	
 	case "up left":
-		sprite_index = spr_player_up_left;
+		//sprite_index = spr_player_up_left;
 		if (x_direction > 0)
 		{
-			move_speed = 8;
+			move_speed = 7;
 		}
 		if (x_direction < 0)
 		{
-			move_speed = 5;
+			move_speed = 4;
 		}
 	break;
 	
 	case "up right":
-		sprite_index = spr_player_up_right;
+		//sprite_index = spr_player_up_right;
 		if (x_direction > 0)
 		{
-			move_speed = 5;
+			move_speed = 4;
 		}
 		if (x_direction < 0)
 		{
-			move_speed = 8;
+			move_speed = 7;
 		}
 	break;
 	
 	case "airborn":
-		sprite_index = spr_player_airborn;
+		//sprite_index = spr_player_airborn;
 	break;
 	
 	case "dash":

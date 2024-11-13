@@ -43,7 +43,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"Game Off 2024 Metroidvania",
   "resources":[
@@ -61,6 +61,7 @@
     {"id":{"name":"obj_ground_up_right","path":"objects/obj_ground_up_right/obj_ground_up_right.yy",},},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},},
     {"id":{"name":"obj_hud","path":"objects/obj_hud/obj_hud.yy",},},
+    {"id":{"name":"obj_lawn_filler","path":"objects/obj_lawn_filler/obj_lawn_filler.yy",},},
     {"id":{"name":"obj_pickup","path":"objects/obj_pickup/obj_pickup.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_state_flat_trigger","path":"objects/obj_state_flat_trigger/obj_state_flat_trigger.yy",},},
@@ -69,7 +70,8 @@
     {"id":{"name":"obj_transition_pixelate","path":"objects/obj_transition_pixelate/obj_transition_pixelate.yy",},},
     {"id":{"name":"text_debugger","path":"objects/text_debugger/text_debugger.yy",},},
     {"id":{"name":"rm_enemy_and_pickups","path":"rooms/rm_enemy_and_pickups/rm_enemy_and_pickups.yy",},},
-    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
+    {"id":{"name":"rm_first_floor","path":"rooms/rm_first_floor/rm_first_floor.yy",},},
+    {"id":{"name":"rm_front_lawn","path":"rooms/rm_front_lawn/rm_front_lawn.yy",},},
     {"id":{"name":"rm_start_menu","path":"rooms/rm_start_menu/rm_start_menu.yy",},},
     {"id":{"name":"CheckForAnyGroundTile","path":"scripts/CheckForAnyGroundTile/CheckForAnyGroundTile.yy",},},
     {"id":{"name":"Filters","path":"scripts/Filters/Filters.yy",},},
@@ -94,13 +96,15 @@
     {"id":{"name":"spr_player_up_right","path":"sprites/spr_player_up_right/spr_player_up_right.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_state_trigger","path":"sprites/spr_state_trigger/spr_state_trigger.yy",},},
+    {"id":{"name":"spr_lawn","path":"sprites/spr_lawn/spr_lawn.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_start_menu","path":"rooms/rm_start_menu/rm_start_menu.yy",},},
-    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"roomId":{"name":"rm_enemy_and_pickups","path":"rooms/rm_enemy_and_pickups/rm_enemy_and_pickups.yy",},},
+    {"roomId":{"name":"rm_front_lawn","path":"rooms/rm_front_lawn/rm_front_lawn.yy",},},
+    {"roomId":{"name":"rm_first_floor","path":"rooms/rm_first_floor/rm_first_floor.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

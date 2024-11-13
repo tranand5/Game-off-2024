@@ -1,2 +1,2 @@
-draw_set_color(c_black);
-draw_text(225, 335, "State: " + obj_player.state);
+draw_set_color(c_white);
+draw_text(obj_player.x, obj_player.y + 50, "State: " + obj_player.state);
