@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ground_up_right",
+  "%Name":"obj_checkpoint",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_ground_up_right",
+  "name":"obj_checkpoint",
   "overriddenProperties":[],
   "parent":{
-    "name":"Environment",
-    "path":"folders/Objects/Environment.yy",
+    "name":"Checkpoint",
+    "path":"folders/Objects/Checkpoint.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ground_up_right",
-    "path":"sprites/spr_ground_up_right/spr_ground_up_right.yy",
+    "name":"spr_checkpoint",
+    "path":"sprites/spr_checkpoint/spr_checkpoint.yy",
   },
   "spriteMaskId":null,
   "visible":true,
