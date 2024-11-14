@@ -49,18 +49,18 @@ switch (state)
 {
 	case "flat":
 		//sprite_index = spr_player;
-		move_speed = 6;
+		move_speed = 8;
 	break;
 	
 	case "up left":
 		//sprite_index = spr_player_up_left;
 		if (x_direction > 0)
 		{
-			move_speed = 8;
+			move_speed = 11;
 		}
 		if (x_direction < 0)
 		{
-			move_speed = 4;
+			move_speed = 5;
 		}
 	break;
 	
@@ -68,11 +68,11 @@ switch (state)
 		//sprite_index = spr_player_up_right;
 		if (x_direction > 0)
 		{
-			move_speed = 4;
+			move_speed = 5;
 		}
 		if (x_direction < 0)
 		{
-			move_speed = 8;
+			move_speed = 11;
 		}
 	break;
 	

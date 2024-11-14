@@ -1,1 +1,0 @@
-enemy_speed = random_range(0.5, 2);

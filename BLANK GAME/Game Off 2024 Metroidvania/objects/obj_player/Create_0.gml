@@ -1,9 +1,9 @@
 //variable init
 image_speed = 0;
 //movement init
-move_speed = 6;
-dash_speed = 17;
-jump_speed = 22;
+move_speed = 8;
+dash_speed = 20;
+jump_speed = 25;
 grav = 1;
 x_direction = 0;
 x_speed = 0;
