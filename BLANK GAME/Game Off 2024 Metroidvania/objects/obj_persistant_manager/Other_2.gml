@@ -1,4 +1,4 @@
-if (file_exists("checkpoint.ini")
+if (file_exists("checkpoint.ini"))
 {
-	file_delete("checkpoint.ini")
+	file_delete("checkpoint.ini");
 }

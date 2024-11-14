@@ -1,3 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
 instance_destroy()
+obj_hud.value_to_draw += 1;
