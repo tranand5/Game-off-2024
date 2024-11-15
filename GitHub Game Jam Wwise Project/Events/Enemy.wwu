@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{41340DB0-78B1-416D-B2FA-ED68043436DA}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Enemy" ID="{41340DB0-78B1-416D-B2FA-ED68043436DA}" PersistMode="Standalone"/>
+	</Events>
+</WwiseDocument>
