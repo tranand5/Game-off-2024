@@ -49,6 +49,7 @@
   },
   "name":"Game Off 2024 Metroidvania",
   "resources":[
+    {"id":{"name":"Wwise","path":"extensions/Wwise/Wwise.yy",},},
     {"id":{"name":"fnt_hud","path":"fonts/fnt_hud/fnt_hud.yy",},},
     {"id":{"name":"initializer","path":"objects/initializer/initializer.yy",},},
     {"id":{"name":"obj_bkgd_slope_up_left","path":"objects/obj_bkgd_slope_up_left/obj_bkgd_slope_up_left.yy",},},
