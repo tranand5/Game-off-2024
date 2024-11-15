@@ -109,3 +109,20 @@ if (place_meeting(x, y, obj_ground))
 
 //	flip sprite based on move direction
 //if (move_x != 0) image_xscale = sign(move_x);
+
+// Pause menu system
+if (keyboard_check_pressed(vk_escape))
+{
+	is_paused = !is_paused;
+	if is_paused == false
+	{
+		instance_activate_all();
+		surface_free(paused_id);
+			paused_id = -1;
+	}
+	if is_paused == true
+	{
+		alarm[0]++;
+	}
+}
+	
