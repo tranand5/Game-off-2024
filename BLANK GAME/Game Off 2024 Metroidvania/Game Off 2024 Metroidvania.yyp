@@ -82,6 +82,7 @@
     {"id":{"name":"Filters","path":"scripts/Filters/Filters.yy",},},
     {"id":{"name":"StateCheck","path":"scripts/StateCheck/StateCheck.yy",},},
     {"id":{"name":"seq_hud","path":"sequences/seq_hud/seq_hud.yy",},},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},},
     {"id":{"name":"spr_background_slope_up_left","path":"sprites/spr_background_slope_up_left/spr_background_slope_up_left.yy",},},
     {"id":{"name":"spr_background_slope_up_right","path":"sprites/spr_background_slope_up_right/spr_background_slope_up_right.yy",},},
     {"id":{"name":"spr_bkgd","path":"sprites/spr_bkgd/spr_bkgd.yy",},},
