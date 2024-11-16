@@ -17,5 +17,5 @@ array_set(all_ground_tiles, 1, obj_ground_up_left);
 array_set(all_ground_tiles, 2, obj_ground_up_right);
 
 // Pause values
-is_paused = false;
-paused_id = -1;
+//is_paused = false;
+//paused_id = -1;

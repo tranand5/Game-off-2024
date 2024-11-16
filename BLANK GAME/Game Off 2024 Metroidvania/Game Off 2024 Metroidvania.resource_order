@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[
     {"name":"Checkpoint","order":13,"path":"folders/Objects/Checkpoint.yy",},
+    {"name":"Pause","order":14,"path":"folders/Objects/Pause.yy",},
     {"name":"HUD","order":12,"path":"folders/Objects/HUD.yy",},
     {"name":"Pickups","order":2,"path":"folders/Objects/Pickups.yy",},
     {"name":"Player, Enemies, NPcs","order":11,"path":"folders/Objects/Player, Enemies, NPcs.yy",},
