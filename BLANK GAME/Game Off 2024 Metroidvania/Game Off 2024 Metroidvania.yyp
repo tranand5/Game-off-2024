@@ -17,6 +17,7 @@
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Checkpoint","folderPath":"folders/Objects/Checkpoint.yy","name":"Checkpoint","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Environment","folderPath":"folders/Objects/Environment.yy","name":"Environment","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Objects/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"HUD","folderPath":"folders/Objects/HUD.yy","name":"HUD","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Managers","folderPath":"folders/Objects/Managers.yy","name":"Managers","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Pause","folderPath":"folders/Objects/Pause.yy","name":"Pause","resourceType":"GMFolder","resourceVersion":"2.0",},

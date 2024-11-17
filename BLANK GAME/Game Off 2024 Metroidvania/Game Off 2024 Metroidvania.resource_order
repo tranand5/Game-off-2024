@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[
     {"name":"Checkpoint","order":13,"path":"folders/Objects/Checkpoint.yy",},
+    {"name":"Sounds","order":16,"path":"folders/Objects/Sounds.yy",},
     {"name":"HUD","order":12,"path":"folders/Objects/HUD.yy",},
     {"name":"Pause","order":14,"path":"folders/Objects/Pause.yy",},
     {"name":"Pickups","order":2,"path":"folders/Objects/Pickups.yy",},
@@ -18,7 +19,6 @@
     {"name":"obj_button_start","order":1,"path":"objects/obj_button_start/obj_button_start.yy",},
     {"name":"obj_button_wasd","order":2,"path":"objects/obj_button_wasd/obj_button_wasd.yy",},
     {"name":"obj_camera","order":2,"path":"objects/obj_camera/obj_camera.yy",},
-    {"name":"obj_horror_music","order":15,"path":"objects/obj_horror_music/obj_horror_music.yy",},
     {"name":"obj_lawn_filler","order":1,"path":"objects/obj_lawn_filler/obj_lawn_filler.yy",},
     {"name":"obj_persistant_manager","order":3,"path":"objects/obj_persistant_manager/obj_persistant_manager.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},

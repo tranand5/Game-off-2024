@@ -8,8 +8,8 @@
   "name":"obj_horror_music",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Sounds",
+    "path":"folders/Objects/Sounds.yy",
   },
   "parentObjectId":null,
   "persistent":false,
