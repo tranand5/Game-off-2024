@@ -7,7 +7,7 @@
   },
   "bitDepth":1,
   "bitRate":128,
-  "compression":0,
+  "compression":1,
   "conversionMode":0,
   "duration":33.168,
   "name":"snd_horror",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"snd_horror.mp3",
   "type":0,
-  "volume":0.67,
+  "volume":0.49,
 }
