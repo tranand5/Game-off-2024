@@ -48,7 +48,7 @@ if ((can_dash == true) && (keyboard_check_pressed(vk_shift)))
 switch (state)
 {
 	case "flat":
-		//sprite_index = spr_player;
+		//sprite_index = spr_player_idle;
 		move_speed = 5;
 	break;
 	
@@ -81,7 +81,6 @@ switch (state)
 	break;
 	
 	case "dash":
-		image_speed = 0.35;
 		move_speed = dash_speed;
 	break;
 	
@@ -104,12 +103,21 @@ if (place_meeting(x, y, obj_ground))
 	y -= 2;
 }
 
-//	Dash System
-
-
-//	flip sprite based on move direction
-//if (move_x != 0) image_xscale = sign(move_x);
-
+//	Flip Sprite
+if (x_speed > 0)
+{
+	sprite_index = spr_player_walk;
+	image_xscale = 1;
+}
+if (x_speed < 0)
+{
+	sprite_index = spr_player_walk;
+	image_xscale = -1;
+}
+if (x_speed = 0)
+{
+	sprite_index = spr_player_idle;
+}
 // Pause menu system
 //if (keyboard_check_pressed(vk_escape))
 //{

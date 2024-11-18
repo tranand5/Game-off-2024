@@ -1,11 +1,11 @@
 {
   "FolderOrderSettings":[
     {"name":"Checkpoint","order":13,"path":"folders/Objects/Checkpoint.yy",},
-    {"name":"Sounds","order":16,"path":"folders/Objects/Sounds.yy",},
     {"name":"HUD","order":12,"path":"folders/Objects/HUD.yy",},
     {"name":"Pause","order":14,"path":"folders/Objects/Pause.yy",},
     {"name":"Pickups","order":2,"path":"folders/Objects/Pickups.yy",},
     {"name":"Player, Enemies, NPcs","order":11,"path":"folders/Objects/Player, Enemies, NPcs.yy",},
+    {"name":"Sounds","order":16,"path":"folders/Objects/Sounds.yy",},
     {"name":"Start Menu","order":10,"path":"folders/Objects/Start Menu.yy",},
     {"name":"Transitions","order":7,"path":"folders/Objects/Transitions.yy",},
     {"name":"Checkpoint","order":6,"path":"folders/Sprites/Checkpoint.yy",},
@@ -37,5 +37,6 @@
     {"name":"spr_control_indicator","order":4,"path":"sprites/spr_control_indicator/spr_control_indicator.yy",},
     {"name":"spr_end_level","order":3,"path":"sprites/spr_end_level/spr_end_level.yy",},
     {"name":"spr_lawn","order":1,"path":"sprites/spr_lawn/spr_lawn.yy",},
+    {"name":"spr_player_walk","order":1,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
   ],
 }

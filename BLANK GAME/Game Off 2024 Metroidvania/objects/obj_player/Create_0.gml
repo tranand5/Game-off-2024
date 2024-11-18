@@ -1,5 +1,3 @@
-//variable init
-image_speed = 0;
 //movement init
 move_speed = 5;
 dash_speed = 15;
