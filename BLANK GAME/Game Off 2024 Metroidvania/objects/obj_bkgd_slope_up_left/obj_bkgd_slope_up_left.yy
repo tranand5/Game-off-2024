@@ -2,7 +2,7 @@
   "$GMObject":"",
   "%Name":"obj_bkgd_slope_up_left",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_bkgd_slope_up_left",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_background_slope_up_left",
-    "path":"sprites/spr_background_slope_up_left/spr_background_slope_up_left.yy",
+    "name":"spr_bkgd_slope_up_left",
+    "path":"sprites/spr_bkgd_slope_up_left/spr_bkgd_slope_up_left.yy",
   },
   "spriteMaskId":null,
   "visible":true,

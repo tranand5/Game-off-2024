@@ -8,7 +8,7 @@ switch (room)
 		image_index = 1;
 	break;
 	
-	default:
-		image_index = 0;
+	case rm_first_floor:
+		image_index = 2;
 	break;
 }

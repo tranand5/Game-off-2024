@@ -5,10 +5,10 @@ image_speed = 0;
 switch (room)
 {
 	case rm_front_lawn:
-		image_index = 1;
+		image_index = 0;
 	break;
 	
-	default:
-		image_index = 0;
+	case rm_first_floor:
+		image_index = 1;
 	break;
 }
