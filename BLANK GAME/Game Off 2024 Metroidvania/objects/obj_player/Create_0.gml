@@ -1,6 +1,6 @@
 //movement init
 move_speed = 5;
-dash_speed = 15;
+dash_speed = 20;
 jump_speed = 22;
 grav = 1;
 x_direction = 0;

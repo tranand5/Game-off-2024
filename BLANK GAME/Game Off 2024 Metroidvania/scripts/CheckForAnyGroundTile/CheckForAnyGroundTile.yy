@@ -1,5 +1,5 @@
 {
-  "$GMScript":"v1",
+  "$GMScript":"",
   "%Name":"CheckForAnyGroundTile",
   "isCompatibility":false,
   "isDnD":false,

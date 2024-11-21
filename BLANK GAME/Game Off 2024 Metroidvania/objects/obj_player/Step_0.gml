@@ -82,6 +82,7 @@ switch (state)
 	
 	case "dash":
 		move_speed = dash_speed;
+		image_alpha = 0;
 	break;
 	
 	default:

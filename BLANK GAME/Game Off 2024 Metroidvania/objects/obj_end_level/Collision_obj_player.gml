@@ -3,13 +3,23 @@
 var _transition = instance_create_layer(0, 0, "Instances", obj_transition_linear_blur);
 
 //	Room Switcher
-//main to enemy test room
+//front lawn to mansion 1st floor
 if (room == rm_front_lawn)
 {
 	room_goto(rm_first_floor);
 }
-//enemy test room to __
-if (room == rm_enemy_and_pickups)
+//mansion 1st floor to 2nd floor
+if (room == rm_first_floor)
 {
-	//room_goto();
+	room_goto(rm_second_floor);
+}
+//mansion 2nd floor to attic
+if (room == rm_second_floor)
+{
+	room_goto(rm_attic);
+}
+//attic to 2nd floor
+if (room == rm_attic)
+{
+	room_goto(rm_second_floor);
 }
