@@ -1,0 +1,62 @@
+Event	ID	Name			Wwise Object Path	Notes
+	541470702	Player_movement			\Player\Player_Locomotion\Player_movement	
+	895718239	Play_Transition			\Level\Play_Transition	
+	1432499658	Play_Enemy_Locomotion			\Enemy\Play_Enemy_Locomotion	
+	1835085974	Play_Player_Death			\Player\Play_Player_Death	
+	1864892471	Play_Player_Hit			\Player\Play_Player_Hit	
+	2045007312	Play_Enemy_Hit			\Enemy\Play_Enemy_Hit	
+	2211787386	Play_Dash			\Player\Player_Locomotion\Play_Dash	
+	2547633870	Play_Door			\Level\Play_Door	
+	3046156865	Play_Enemy_Death			\Enemy\Play_Enemy_Death	
+	3689126666	Play_Jump			\Player\Player_Locomotion\Play_Jump	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2084059801	Player_Materials			\Default Work Unit\Player_Materials	
+	2228677992	Enemy_Materials			\Default Work Unit\Enemy_Materials	
+
+Switch	ID	Name	Switch Group			Notes
+	841620460	Concrete	Player_Materials			
+	2058049674	Wood	Player_Materials			
+	4248645337	Grass	Player_Materials			
+	841620460	Concrete	Enemy_Materials			
+	2058049674	Wood	Enemy_Materials			
+	4248645337	Grass	Enemy_Materials			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	47335504	footsteps 2 wood	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footsteps 2 wood_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Wood\footsteps 2 wood		0
+	60057095	E FT 1	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\E FT 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\Enemy_Locomotion\Locomotion\Concrete\E FT 1		0
+	69724844	enemy death	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\enemy death_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\enemy death		0
+	144709434	footstep 1 con	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footstep 1 con_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Concrete\footstep 1 con		0
+	151035109	footstep 2 con	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footstep 2 con_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Concrete\footstep 2 con		0
+	209563105	door	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\door_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Level\door		0
+	231997121	dash 3	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\dash 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\Player Dash\dash 3		0
+	308789893	hitHurt 3	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\hitHurt 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\player hit \hitHurt 3		0
+	347807902	E hitHurt(4)	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\E hitHurt(4)_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\hit hurt\E hitHurt(4)		0
+	361974090	dash 4	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\dash 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\Player Dash\dash 4		0
+	362638598	jump 4	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\jump 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\player jump\jump 4		0
+	386630506	transition	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\transition_1C5982A4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Level\transition		0
+	389801692	jump 3	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\jump 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\player jump\jump 3		0
+	596923059	Player Death	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\player death_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player Death		0
+	619796070	footstep 3 grass	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footstep 3 grass_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Grass\footstep 3 grass		0
+	660615074	hitHurt 2	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\hitHurt 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\player hit \hitHurt 2		0
+	670213282	E FT 4	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\E FT 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\Enemy_Locomotion\Locomotion\Concrete\E FT 4		0
+	685087662	hitHurt 1	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\hitHurt 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\player hit \hitHurt 1		0
+	686621520	footstep 4 con	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footstep 4 con_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Concrete\footstep 4 con		0
+	697346730	footsteps 1 wood	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footsteps 1 wood_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Wood\footsteps 1 wood		0
+	713249141	dash 1	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\dash 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\Player Dash\dash 1		0
+	726311461	E hitHurt(1)	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\E hitHurt(1)_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\hit hurt\E hitHurt(1)		0
+	729180968	dash 2	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\dash 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\Player Dash\dash 2		0
+	763393975	footsteps 3 wood	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footsteps 3 wood_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Wood\footsteps 3 wood		0
+	765779367	jump 1	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\jump 1_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\player jump\jump 1		0
+	769486277	footsteps 4 grass	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footsteps 4 grass_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Grass\footsteps 4 grass		0
+	824516263	footstep 2 grass	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footstep 2 grass_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Grass\footstep 2 grass		0
+	824583479	E hitHurt(3)	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\E hitHurt(3)_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\hit hurt\E hitHurt(3)		0
+	825869225	footstep 3 con	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footstep 3 con_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Concrete\footstep 3 con		0
+	865215047	footsteps 4 wood	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footsteps 4 wood_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Wood\footsteps 4 wood		0
+	899006465	footstep 1 grass	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\footstep 1 grass_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\locomotion\Grass\footstep 1 grass		0
+	912877843	E FT 2	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\E FT 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\Enemy_Locomotion\Locomotion\Concrete\E FT 2		0
+	914558438	hitHurt 4	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\hitHurt 4_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\player hit \hitHurt 4		0
+	993158356	jump 2	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\jump 2_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\player\Player_locomotion\player jump\jump 2		0
+	1001720235	E hitHurt(2)	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\E hitHurt(2)_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\hit hurt\E hitHurt(2)		0
+	1022068437	E FT 3	Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\.cache\Windows\SFX\E FT 3_818F3B66.wem		\Actor-Mixer Hierarchy\Default Work Unit\enemy\Enemy_Locomotion\Locomotion\Concrete\E FT 3		0
+

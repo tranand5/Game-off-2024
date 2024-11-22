@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../../../../../../GitHub Game Jam wwise sound bank</ProjectRoot>
+		<SourceFilesRoot>../../../../../../GitHub Game Jam wwise sound bank/.cache/Windows</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>../../../../../../GitHub Game Jam wwise sound bank/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="475492682" Type="User" Language="SFX" Hash="{F9D520B3-D7EC-F59E-87D2-0745F78D4EC9}">
+			<ShortName>Github_Soundbank</ShortName>
+			<Path>Github_Soundbank.bnk</Path>
+			<Media>
+				<File Id="47335504" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footsteps 2 wood.wav</ShortName>
+					<CachePath>SFX/footsteps 2 wood_818F3B66.wem</CachePath>
+				</File>
+				<File Id="60057095" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>E FT 1.wav</ShortName>
+					<CachePath>SFX/E FT 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="69724844" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>enemy death.wav</ShortName>
+					<CachePath>SFX/enemy death_818F3B66.wem</CachePath>
+				</File>
+				<File Id="144709434" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footstep 1 con.wav</ShortName>
+					<CachePath>SFX/footstep 1 con_818F3B66.wem</CachePath>
+				</File>
+				<File Id="151035109" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footstep 2 con.wav</ShortName>
+					<CachePath>SFX/footstep 2 con_818F3B66.wem</CachePath>
+				</File>
+				<File Id="209563105" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>door.wav</ShortName>
+					<CachePath>SFX/door_818F3B66.wem</CachePath>
+				</File>
+				<File Id="231997121" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>dash 3.wav</ShortName>
+					<CachePath>SFX/dash 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="308789893" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>hitHurt 3.wav</ShortName>
+					<CachePath>SFX/hitHurt 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="347807902" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>E hitHurt(4).wav</ShortName>
+					<CachePath>SFX/E hitHurt(4)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="361974090" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>dash 4.wav</ShortName>
+					<CachePath>SFX/dash 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="362638598" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>jump 4.wav</ShortName>
+					<CachePath>SFX/jump 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="386630506" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>transition.wav</ShortName>
+					<CachePath>SFX/transition_1C5982A4.wem</CachePath>
+				</File>
+				<File Id="389801692" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>jump 3.wav</ShortName>
+					<CachePath>SFX/jump 3_818F3B66.wem</CachePath>
+				</File>
+				<File Id="596923059" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>player death.wav</ShortName>
+					<CachePath>SFX/player death_818F3B66.wem</CachePath>
+				</File>
+				<File Id="619796070" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footstep 3 grass.wav</ShortName>
+					<CachePath>SFX/footstep 3 grass_818F3B66.wem</CachePath>
+				</File>
+				<File Id="660615074" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>hitHurt 2.wav</ShortName>
+					<CachePath>SFX/hitHurt 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="670213282" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>E FT 4.wav</ShortName>
+					<CachePath>SFX/E FT 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="685087662" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>hitHurt 1.wav</ShortName>
+					<CachePath>SFX/hitHurt 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="686621520" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footstep 4 con.wav</ShortName>
+					<CachePath>SFX/footstep 4 con_818F3B66.wem</CachePath>
+				</File>
+				<File Id="697346730" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footsteps 1 wood.wav</ShortName>
+					<CachePath>SFX/footsteps 1 wood_818F3B66.wem</CachePath>
+				</File>
+				<File Id="713249141" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>dash 1.wav</ShortName>
+					<CachePath>SFX/dash 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="726311461" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>E hitHurt(1).wav</ShortName>
+					<CachePath>SFX/E hitHurt(1)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="729180968" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>dash 2.wav</ShortName>
+					<CachePath>SFX/dash 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="763393975" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footsteps 3 wood.wav</ShortName>
+					<CachePath>SFX/footsteps 3 wood_818F3B66.wem</CachePath>
+				</File>
+				<File Id="765779367" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>jump 1.wav</ShortName>
+					<CachePath>SFX/jump 1_818F3B66.wem</CachePath>
+				</File>
+				<File Id="769486277" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footsteps 4 grass.wav</ShortName>
+					<CachePath>SFX/footsteps 4 grass_818F3B66.wem</CachePath>
+				</File>
+				<File Id="824516263" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footstep 2 grass.wav</ShortName>
+					<CachePath>SFX/footstep 2 grass_818F3B66.wem</CachePath>
+				</File>
+				<File Id="824583479" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>E hitHurt(3).wav</ShortName>
+					<CachePath>SFX/E hitHurt(3)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="825869225" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footstep 3 con.wav</ShortName>
+					<CachePath>SFX/footstep 3 con_818F3B66.wem</CachePath>
+				</File>
+				<File Id="865215047" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footsteps 4 wood.wav</ShortName>
+					<CachePath>SFX/footsteps 4 wood_818F3B66.wem</CachePath>
+				</File>
+				<File Id="899006465" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>footstep 1 grass.wav</ShortName>
+					<CachePath>SFX/footstep 1 grass_818F3B66.wem</CachePath>
+				</File>
+				<File Id="912877843" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>E FT 2.wav</ShortName>
+					<CachePath>SFX/E FT 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="914558438" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>hitHurt 4.wav</ShortName>
+					<CachePath>SFX/hitHurt 4_818F3B66.wem</CachePath>
+				</File>
+				<File Id="993158356" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>jump 2.wav</ShortName>
+					<CachePath>SFX/jump 2_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1001720235" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>E hitHurt(2).wav</ShortName>
+					<CachePath>SFX/E hitHurt(2)_818F3B66.wem</CachePath>
+				</File>
+				<File Id="1022068437" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>E FT 3.wav</ShortName>
+					<CachePath>SFX/E FT 3_818F3B66.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="2211787386" Name="Play_Dash">
+					<MediaRefs>
+						<MediaRef Id="231997121"/>
+						<MediaRef Id="361974090"/>
+						<MediaRef Id="713249141"/>
+						<MediaRef Id="729180968"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2547633870" Name="Play_Door">
+					<MediaRefs>
+						<MediaRef Id="209563105"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3046156865" Name="Play_Enemy_Death">
+					<MediaRefs>
+						<MediaRef Id="69724844"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2045007312" Name="Play_Enemy_Hit">
+					<MediaRefs>
+						<MediaRef Id="347807902"/>
+						<MediaRef Id="726311461"/>
+						<MediaRef Id="824583479"/>
+						<MediaRef Id="1001720235"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1432499658" Name="Play_Enemy_Locomotion">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="2228677992" Id="841620460" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="60057095"/>
+								<MediaRef Id="670213282"/>
+								<MediaRef Id="912877843"/>
+								<MediaRef Id="1022068437"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+				<Event Id="3689126666" Name="Play_Jump">
+					<MediaRefs>
+						<MediaRef Id="362638598"/>
+						<MediaRef Id="389801692"/>
+						<MediaRef Id="765779367"/>
+						<MediaRef Id="993158356"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1835085974" Name="Play_Player_Death">
+					<MediaRefs>
+						<MediaRef Id="596923059"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1864892471" Name="Play_Player_Hit">
+					<MediaRefs>
+						<MediaRef Id="308789893"/>
+						<MediaRef Id="660615074"/>
+						<MediaRef Id="685087662"/>
+						<MediaRef Id="914558438"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="895718239" Name="Play_Transition">
+					<MediaRefs>
+						<MediaRef Id="386630506"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="541470702" Name="Player_movement">
+					<SwitchContainers>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="2084059801" Id="4248645337"/>
+							<MediaRefs>
+								<MediaRef Id="619796070"/>
+								<MediaRef Id="769486277"/>
+								<MediaRef Id="824516263"/>
+								<MediaRef Id="899006465"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="2084059801" Id="841620460"/>
+							<MediaRefs>
+								<MediaRef Id="144709434"/>
+								<MediaRef Id="151035109"/>
+								<MediaRef Id="686621520"/>
+								<MediaRef Id="825869225"/>
+							</MediaRefs>
+						</SwitchContainer>
+						<SwitchContainer>
+							<SwitchValue GroupType="Switch" GroupId="2084059801" Id="2058049674" Default="true"/>
+							<MediaRefs>
+								<MediaRef Id="47335504"/>
+								<MediaRef Id="697346730"/>
+								<MediaRef Id="763393975"/>
+								<MediaRef Id="865215047"/>
+							</MediaRefs>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
+			</Events>
+			<SwitchGroups>
+				<SwitchGroup Id="2084059801" Name="Player_Materials">
+					<Switches>
+						<Switch Id="841620460" Name="Concrete"/>
+						<Switch Id="2058049674" Name="Wood"/>
+						<Switch Id="4248645337" Name="Grass"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="2228677992" Name="Enemy_Materials">
+					<Switches>
+						<Switch Id="841620460" Name="Concrete"/>
+						<Switch Id="2058049674" Name="Wood"/>
+						<Switch Id="4248645337" Name="Grass"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{B6CBD692-12EC-CDBA-0932-48F63C40C91F}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+			<SwitchGroups>
+				<SwitchGroup Id="2084059801" Name="Player_Materials">
+					<Switches>
+						<Switch Id="841620460" Name="Concrete"/>
+						<Switch Id="2058049674" Name="Wood"/>
+						<Switch Id="4248645337" Name="Grass"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="2228677992" Name="Enemy_Materials">
+					<Switches>
+						<Switch Id="841620460" Name="Concrete"/>
+						<Switch Id="2058049674" Name="Wood"/>
+						<Switch Id="4248645337" Name="Grass"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{7740E799-B5A5-17ED-29D9-04BBD694185D}</FileHash>
+</SoundBanksInfo>

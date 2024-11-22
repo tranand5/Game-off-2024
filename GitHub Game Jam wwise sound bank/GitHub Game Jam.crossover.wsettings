@@ -3,6 +3,11 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{D23FA608-656A-4CAD-95BC-A7C3ED94D0EF}">
 			<PropertyList>
+				<Property Name="Event Action List\{1B432A70-22D0-4E2E-8741-68912C15FFFA}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{1EF256F9-54BE-43A9-A031-7F227BE3EBE8}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{56333DD8-A8D9-44A3-AA0F-D0953910CCC6}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{95ED61C3-2A86-45E2-AB09-27C2603D1A32}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{E2E962A2-0ACA-44F6-AC48-261C1412044C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="ExternalSourcesInputPath" Type="string">
 					<ValueList>
 						<Value Platform="Windows"></Value>
@@ -13,6 +18,10 @@
 						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
 					</ValueList>
 				</Property>
+				<Property Name="General\SourceControlPluginID" Type="string" Value="{C403A906-0C19-4ED5-808E-748707065301}"/>
+				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="M5CxacafuEqdcnLabA9xrQ=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="uPtC65JebEWQCxyZsPrKUA=="/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
 				<Property Name="MeterView\MeterMode1Viewpoint0" Type="int32" Value="1"/>
@@ -20,9 +29,10 @@
 				<Property Name="MeterView\MeterMode1Viewpoint2" Type="int32" Value="3"/>
 				<Property Name="MeterView\MeterMode1Viewpoint3" Type="int32" Value="0"/>
 				<Property Name="SoundBankHeaderFilePath" Type="string" Value="GeneratedSoundBanks\"/>
+				<Property Name="SoundBankPathUserOverride" Type="bool" Value="True"/>
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>
-						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
+						<Value Platform="Windows">..\BLANK GAME\Game Off 2024 Metroidvania\datafiles\sound\banks\Mac\</Value>
 					</ValueList>
 				</Property>
 				<Property Name="SoundBankPostGenerateCustomCmdDescription" Type="string">
