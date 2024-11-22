@@ -3,7 +3,14 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{C49D46E0-E264-4528-B810-1B1870A77EC1}">
 			<PropertyList>
+				<Property Name="AudioFilesImporter\Path" Type="string" Value="Y:\GameOff2024\GameOff2024\audio\"/>
+				<Property Name="Event Action List\{1B432A70-22D0-4E2E-8741-68912C15FFFA}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{56333DD8-A8D9-44A3-AA0F-D0953910CCC6}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{59DCF2EA-A6AE-4DE7-8A09-73547538C8D5}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{74F8C45F-EB15-40A5-89DC-CC35582A86EC}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{95ED61C3-2A86-45E2-AB09-27C2603D1A32}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{9DC2DB7C-7C42-4FDF-8D09-572F6E1A84E0}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{E2E962A2-0ACA-44F6-AC48-261C1412044C}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
 				<Property Name="EventView\FilterMode2" Type="int32" Value="2"/>
 				<Property Name="ExternalSourcesInputPath" Type="string">

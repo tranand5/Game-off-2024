@@ -28,6 +28,7 @@ if (CheckForAnyGroundTile(x, y + 2) == true)
 	if (keyboard_check_pressed(vk_space))
 	{
 		y_speed = -jump_speed;
+		gmwPostEvent(global.player_jump, id);
 	}
 }
 else

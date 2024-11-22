@@ -26,6 +26,7 @@ gmwRegisterObject(id, global.DEFAULT_GROUP, "obj_audio_manager");
 
 //// Initialize links to IDs
 global.player_movement = 541470702;
+global.player_jump = 3689126666;
 //global.WWE_BOUNCE = 3465618802;
 //global.WWE_PLAY_MUSIC = 2932040671;
 
