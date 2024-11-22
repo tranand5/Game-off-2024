@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{569F8725-82D3-4A16-8535-A67C0E664F98}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{569F8725-82D3-4A16-8535-A67C0E664F98}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Github_Soundbank" ID="{EB42FBB8-5E92-456C-900B-1C99B0FACA50}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Jump" ID="{74F8C45F-EB15-40A5-89DC-CC35582A86EC}" WorkUnitID="{E483BD59-151A-468A-9979-DD48944064E3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Door" ID="{1EF256F9-54BE-43A9-A031-7F227BE3EBE8}" WorkUnitID="{9656F0D6-1521-4183-8F67-98D6EF89FE0A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Enemy_Death" ID="{56333DD8-A8D9-44A3-AA0F-D0953910CCC6}" WorkUnitID="{41340DB0-78B1-416D-B2FA-ED68043436DA}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Dash" ID="{E2E962A2-0ACA-44F6-AC48-261C1412044C}" WorkUnitID="{E483BD59-151A-468A-9979-DD48944064E3}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Enemy_Locomotion" ID="{95ED61C3-2A86-45E2-AB09-27C2603D1A32}" WorkUnitID="{41340DB0-78B1-416D-B2FA-ED68043436DA}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Player_Hit" ID="{613C826D-9393-495E-B618-7915425103E2}" WorkUnitID="{591DB859-FD23-44CB-BF45-C5BD887E448F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Transition" ID="{8B585CA2-F4F2-4C7F-B2D8-FF7E8556174F}" WorkUnitID="{9656F0D6-1521-4183-8F67-98D6EF89FE0A}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Player_Death" ID="{59DCF2EA-A6AE-4DE7-8A09-73547538C8D5}" WorkUnitID="{591DB859-FD23-44CB-BF45-C5BD887E448F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Enemy_Hit" ID="{1B432A70-22D0-4E2E-8741-68912C15FFFA}" WorkUnitID="{41340DB0-78B1-416D-B2FA-ED68043436DA}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Player_movement" ID="{9DC2DB7C-7C42-4FDF-8D09-572F6E1A84E0}" WorkUnitID="{E483BD59-151A-468A-9979-DD48944064E3}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

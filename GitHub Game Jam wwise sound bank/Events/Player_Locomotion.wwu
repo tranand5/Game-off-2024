@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E483BD59-151A-468A-9979-DD48944064E3}" SchemaVersion="119" RootDocumentID="{591DB859-FD23-44CB-BF45-C5BD887E448F}" ParentDocumentID="{591DB859-FD23-44CB-BF45-C5BD887E448F}">
+	<Events>
+		<WorkUnit Name="Player_Locomotion" ID="{E483BD59-151A-468A-9979-DD48944064E3}" OwnerID="{591DB859-FD23-44CB-BF45-C5BD887E448F}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Play_Jump" ID="{74F8C45F-EB15-40A5-89DC-CC35582A86EC}">
+					<ChildrenList>
+						<Action Name="" ID="{3C8E991A-7DD7-47B2-95D4-CCDF2FA183D1}" ShortID="173305891">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player jump" ID="{2561D2C8-10FD-4A5B-A530-19F48B8CA059}" WorkUnitID="{80AD8390-DF6E-4453-B37D-D4C72B4F2CEB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Player_movement" ID="{9DC2DB7C-7C42-4FDF-8D09-572F6E1A84E0}">
+					<ChildrenList>
+						<Action Name="" ID="{A72D3DCF-840E-4403-AC45-9B83755F77E4}" ShortID="973501185">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="locomotion" ID="{CE847E06-D949-4901-A3C6-74AEAA6B765B}" WorkUnitID="{80AD8390-DF6E-4453-B37D-D4C72B4F2CEB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Dash" ID="{E2E962A2-0ACA-44F6-AC48-261C1412044C}">
+					<ChildrenList>
+						<Action Name="" ID="{9FD213DF-DD85-408A-B932-D5F8F11AF289}" ShortID="712940325">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player Dash" ID="{024184CB-F5A2-434A-A2A1-AFEE30DBBDA6}" WorkUnitID="{80AD8390-DF6E-4453-B37D-D4C72B4F2CEB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
