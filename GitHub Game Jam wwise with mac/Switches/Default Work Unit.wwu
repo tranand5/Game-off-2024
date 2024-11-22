@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B0BFD919-D778-4271-BA76-EFBC84B4D320}" SchemaVersion="119">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{B0BFD919-D778-4271-BA76-EFBC84B4D320}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Player_Materials" ID="{E52698A8-5E16-4AFB-A2BD-2E52D852C708}">
+					<ChildrenList>
+						<Switch Name="Concrete" ID="{7DAF3B68-BF0C-4295-A0BF-DF2E9142D2E2}"/>
+						<Switch Name="Grass" ID="{8006E32D-3C04-41DE-BD53-533F41FC3F04}"/>
+						<Switch Name="Wood" ID="{A8F41A6E-850D-42B0-B952-6EBFC9046E5D}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Enemy_Materials" ID="{755B9351-AABD-43CF-AD0A-45ECD16E21A9}">
+					<ChildrenList>
+						<Switch Name="Concrete" ID="{39E67DC7-EAA2-48D8-AA98-A62926D2534D}"/>
+						<Switch Name="Grass" ID="{7D075246-D3C2-4850-8057-35C0A9AC02FA}"/>
+						<Switch Name="Wood" ID="{61D2E202-DA38-4495-89F2-17397D7DAD56}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

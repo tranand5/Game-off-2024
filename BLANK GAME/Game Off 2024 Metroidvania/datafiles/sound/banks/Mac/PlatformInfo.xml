@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlatformInfo>
-	<Platform Name="Windows" BasePlatform="Windows" Generator="2023.1.6.8555"/>
+	<Platform Name="Mac" BasePlatform="Mac" Generator="2023.1.6.8555"/>
 	<RootPaths>
-		<ProjectRoot>../../../../../../GitHub Game Jam wwise sound bank</ProjectRoot>
-		<SourceFilesRoot>../../../../../../GitHub Game Jam wwise sound bank/.cache/Windows</SourceFilesRoot>
+		<ProjectRoot>../../../../../../GitHub Game Jam wwise with mac</ProjectRoot>
+		<SourceFilesRoot>../../../../../../GitHub Game Jam wwise with mac/.cache/Mac</SourceFilesRoot>
 		<SoundBanksRoot>.</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>../../../../../../GitHub Game Jam wwise sound bank/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>../../../../../../GitHub Game Jam wwise with mac/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DefaultAlign>16</DefaultAlign>
 	<Settings>
@@ -28,5 +28,5 @@
 		<PrintObjectGuid>false</PrintObjectGuid>
 		<PrintObjectPath>false</PrintObjectPath>
 	</Settings>
-	<FileHash>{86DA0299-18C0-D589-AA8E-BAC66AF0E921}</FileHash>
+	<FileHash>{A36F430F-2A31-C08C-C921-183CB3D5ADEC}</FileHash>
 </PlatformInfo>

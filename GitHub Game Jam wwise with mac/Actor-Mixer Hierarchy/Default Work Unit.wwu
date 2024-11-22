@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" SchemaVersion="119">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="enemy" ID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}" PersistMode="Reference"/>
+				<WorkUnit Name="player" ID="{FAEC26D0-46A1-45DA-845A-CEFE7567944A}" PersistMode="Reference"/>
+				<WorkUnit Name="Level" ID="{23B3FA68-74FC-4913-874F-AAA2E97E717E}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

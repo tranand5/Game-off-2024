@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
 	<RootPaths>
-		<ProjectRoot>../../../../../../GitHub Game Jam wwise sound bank</ProjectRoot>
-		<SourceFilesRoot>../../../../../../GitHub Game Jam wwise sound bank/.cache/Windows</SourceFilesRoot>
+		<ProjectRoot>../../../../../../GitHub Game Jam wwise with mac</ProjectRoot>
+		<SourceFilesRoot>../../../../../../GitHub Game Jam wwise with mac/.cache/Windows</SourceFilesRoot>
 		<SoundBanksRoot>.</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>../../../../../../GitHub Game Jam wwise sound bank/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>../../../../../../GitHub Game Jam wwise with mac/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
@@ -303,5 +303,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{7740E799-B5A5-17ED-29D9-04BBD694185D}</FileHash>
+	<FileHash>{144FBF2B-2FFB-7844-93FE-DF1A7DB20723}</FileHash>
 </SoundBanksInfo>

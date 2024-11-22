@@ -16,7 +16,7 @@ gmwSetBasePath(path);
     
 // Initialize the banks
 global.INIT_BANK = gmwLoadBank("Init.bnk");
-global.GAME_BANK = gmwLoadBank("SoundBank.bnk");
+global.GAME_BANK = gmwLoadBank("Github_Soundbank.bnk");
 
 global.DEFAULT_GROUP = 1;
 

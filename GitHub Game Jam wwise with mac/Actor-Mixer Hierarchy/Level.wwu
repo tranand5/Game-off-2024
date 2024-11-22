@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{23B3FA68-74FC-4913-874F-AAA2E97E717E}" SchemaVersion="119" RootDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" ParentDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}">
+	<AudioObjects>
+		<WorkUnit Name="Level" ID="{23B3FA68-74FC-4913-874F-AAA2E97E717E}" OwnerID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" PersistMode="Nested">
+			<ChildrenList>
+				<Sound Name="door" ID="{19A844C4-3366-4508-8E99-A38CA212944B}" ShortID="33906194">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4E14936F-DA82-4192-A5F5-609799B04B2A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{55256AC4-352F-4C0A-8EED-910BFA55C87F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="door" ID="{D4EE5DED-3385-4E3F-9D9C-D2D2A91471A3}">
+							<Language>SFX</Language>
+							<AudioFile>door.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="209563105"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="door" ID="{D4EE5DED-3385-4E3F-9D9C-D2D2A91471A3}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="transition" ID="{0865F99E-DFF6-4057-B755-5129075E30D8}" ShortID="297814045">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4E14936F-DA82-4192-A5F5-609799B04B2A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{55256AC4-352F-4C0A-8EED-910BFA55C87F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="transition" ID="{CD7CEA49-15F0-4274-B898-857C52674F14}">
+							<PropertyList>
+								<Property Name="FadeOutDuration" Type="Real64" Value="0.397595463455028"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimEnd" Type="Real64" Value="0.397595463455028"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>transition.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="386630506"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="transition" ID="{CD7CEA49-15F0-4274-B898-857C52674F14}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

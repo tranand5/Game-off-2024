@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{41340DB0-78B1-416D-B2FA-ED68043436DA}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Enemy" ID="{41340DB0-78B1-416D-B2FA-ED68043436DA}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Enemy_Locomotion" ID="{95ED61C3-2A86-45E2-AB09-27C2603D1A32}">
+					<ChildrenList>
+						<Action Name="" ID="{865894A7-09E0-4A1E-B24A-C3A49EB26444}" ShortID="642284781">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Locomotion" ID="{F4F4848D-9A23-40BE-9447-FDA78910AAF7}" WorkUnitID="{9B9D1568-B718-4A1D-82C7-D263BED4D895}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Enemy_Hit" ID="{1B432A70-22D0-4E2E-8741-68912C15FFFA}">
+					<ChildrenList>
+						<Action Name="" ID="{4BED7B41-AB2D-4607-AFDF-31A92CCB0517}" ShortID="287890820">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="hit hurt" ID="{5E081394-012D-4FC8-8727-EEEBEC4840A0}" WorkUnitID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Enemy_Death" ID="{56333DD8-A8D9-44A3-AA0F-D0953910CCC6}">
+					<ChildrenList>
+						<Action Name="" ID="{82713A2C-71C3-4432-A7CA-82C11347EBF8}" ShortID="976486227">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="enemy death" ID="{661A9624-D80F-4EF1-A1AF-8786D1030CC1}" WorkUnitID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{591DB859-FD23-44CB-BF45-C5BD887E448F}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Player" ID="{591DB859-FD23-44CB-BF45-C5BD887E448F}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Player_Locomotion" ID="{E483BD59-151A-468A-9979-DD48944064E3}" PersistMode="Reference"/>
+				<WorkUnit Name="Player_items" ID="{BD4DAB9B-71D5-4571-B7A0-7BD4B5F5A59E}" PersistMode="Reference"/>
+				<Event Name="Play_Player_Hit" ID="{613C826D-9393-495E-B618-7915425103E2}">
+					<ChildrenList>
+						<Action Name="" ID="{04CBB6DA-1B27-48FA-B4FB-A747E819219F}" ShortID="155293979">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="player hit " ID="{B21D9103-9182-4CB8-9F10-65F406A11EB3}" WorkUnitID="{FAEC26D0-46A1-45DA-845A-CEFE7567944A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Player_Death" ID="{59DCF2EA-A6AE-4DE7-8A09-73547538C8D5}">
+					<ChildrenList>
+						<Action Name="" ID="{64F5148F-5DDF-4991-9E97-06B84560BDA2}" ShortID="42911328">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Player Death" ID="{289E8AFC-0B9C-4AE9-9711-F0F2911A3103}" WorkUnitID="{FAEC26D0-46A1-45DA-845A-CEFE7567944A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9656F0D6-1521-4183-8F67-98D6EF89FE0A}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Level" ID="{9656F0D6-1521-4183-8F67-98D6EF89FE0A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_Door" ID="{1EF256F9-54BE-43A9-A031-7F227BE3EBE8}">
+					<ChildrenList>
+						<Action Name="" ID="{45AA274C-3A74-447A-90D2-070B3CFE88B3}" ShortID="538028279">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="door" ID="{19A844C4-3366-4508-8E99-A38CA212944B}" WorkUnitID="{23B3FA68-74FC-4913-874F-AAA2E97E717E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Transition" ID="{8B585CA2-F4F2-4C7F-B2D8-FF7E8556174F}">
+					<ChildrenList>
+						<Action Name="" ID="{553D5BC0-C45F-440F-B91E-0206B03B9168}" ShortID="159987292">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="transition" ID="{0865F99E-DFF6-4057-B755-5129075E30D8}" WorkUnitID="{23B3FA68-74FC-4913-874F-AAA2E97E717E}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

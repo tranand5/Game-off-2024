@@ -1,41 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="119">
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Virtual Acoustics\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Triggers\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Switches\Default Work Unit.wwu" DateLow="1731901552" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\States\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\SoundBanks\Default Work Unit.wwu" DateLow="1732116306" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Queries\Factory Queries.wwu" DateLow="1726342292" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Queries\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Presets\Factory Spatial Audio.wwu" DateLow="1726342292" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Presets\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Modulators\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Mixing Sessions\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Metadata\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\GitHub Game Jam.wproj" DateLow="1731098058" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Game Parameters\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Player_Locomotion.wwu" DateLow="1731901552" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Player_items.wwu" DateLow="1731098138" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Player.wwu" DateLow="1732044858" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Level.wwu" DateLow="1732044858" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Enemy.wwu" DateLow="1732044858" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Default Work Unit.wwu" DateLow="1731098058" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Effects\Factory Effects.wwu" DateLow="1726342292" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Effects\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1726342292" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Conversion Settings\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Control Surface Sessions\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Audio Devices\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Attenuations\distance.wwu" DateLow="1732044858" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Attenuations\Default Work Unit.wwu" DateLow="1730650288" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\Player_locomotion.wwu" DateLow="1731901552" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\player.wwu" DateLow="1732044858" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\Level.wwu" DateLow="1732044858" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\Enemy_Locomotion.wwu" DateLow="1732044858" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\enemy.wwu" DateLow="1732044858" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1732044858" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Virtual Acoustics\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Triggers\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Switches\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\States\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\SoundBanks\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Queries\Factory Queries.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Queries\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Presets\Factory Spatial Audio.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Presets\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Modulators\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Mixing Sessions\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Metadata\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\GitHub Game Jam.wproj" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\GitHub Game Jam.crossover.wsettings" DateLow="1732297910" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Game Parameters\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Player_Locomotion.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Player_items.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Player.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Level.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Enemy.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Events\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Effects\Factory Effects.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Effects\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Conversion Settings\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Control Surface Sessions\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Audio Devices\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Attenuations\distance.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Attenuations\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\Player_locomotion.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\player.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\Level.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\Enemy_Locomotion.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\enemy.wwu" DateLow="1732297908" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise sound bank\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1732297908" DateHigh="0"/>
 </ValidationCache>

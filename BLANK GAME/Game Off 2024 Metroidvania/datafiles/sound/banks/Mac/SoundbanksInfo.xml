@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="150">
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="150">
 	<RootPaths>
-		<ProjectRoot>../../../../../../GitHub Game Jam wwise sound bank</ProjectRoot>
-		<SourceFilesRoot>../../../../../../GitHub Game Jam wwise sound bank/.cache/Windows</SourceFilesRoot>
+		<ProjectRoot>../../../../../../GitHub Game Jam wwise with mac</ProjectRoot>
+		<SourceFilesRoot>../../../../../../GitHub Game Jam wwise with mac/.cache/Mac</SourceFilesRoot>
 		<SoundBanksRoot>.</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>../../../../../../GitHub Game Jam wwise sound bank/GeneratedSoundBanks/Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>../../../../../../GitHub Game Jam wwise with mac/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<SoundBanks>
@@ -273,7 +273,7 @@
 				</SwitchGroup>
 			</SwitchGroups>
 		</SoundBank>
-		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{B6CBD692-12EC-CDBA-0932-48F63C40C91F}">
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{D326F752-7CA2-0A14-FDB1-63ECE89D0199}">
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 			<Plugins>
@@ -303,5 +303,5 @@
 			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{7740E799-B5A5-17ED-29D9-04BBD694185D}</FileHash>
+	<FileHash>{02CB2DCD-B407-843C-FE29-A68C1B0FAB4E}</FileHash>
 </SoundBanksInfo>
