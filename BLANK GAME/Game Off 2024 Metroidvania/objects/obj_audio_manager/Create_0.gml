@@ -8,9 +8,9 @@ gmwInit();
 var path = "";
 
 if (os_type == os_macosx)
-    path = working_directory + "sound/banks/Mac/";
+    path = working_directory + "sound/banks/Mac";
 else
-    path = working_directory + "sound/banks/Windows/";
+    path = working_directory + "sound/banks/Windows";
     
 gmwSetBasePath(path);
     
@@ -41,7 +41,7 @@ global.player_jump = 3689126666;
 //global.WWP_MUSIC_VOLUME = 1006694123;
 
 //// Set the music volume to max and start playing it
-//global.VOLUME = 100;
+global.VOLUME = 100;
 
 //gmwSetGlobalParameter(global.WWP_MUSIC_VOLUME, global.VOLUME);
 //gmwPostEvent(global.WWE_PLAY_MUSIC, id);

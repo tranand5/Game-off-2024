@@ -31,4 +31,3 @@
 //        gmwSetState(global.WWSG_AUDIO_TYPE, global.WWS_PLUGGED_EARS);
 //    }
 //}
-gmwProcess();

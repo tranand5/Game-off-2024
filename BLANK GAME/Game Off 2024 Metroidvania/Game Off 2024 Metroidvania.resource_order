@@ -54,6 +54,7 @@
     {"name":"spr_button_start","order":1,"path":"sprites/spr_button_start/spr_button_start.yy",},
     {"name":"spr_button_wasd","order":2,"path":"sprites/spr_button_wasd/spr_button_wasd.yy",},
     {"name":"spr_control_indicator","order":4,"path":"sprites/spr_control_indicator/spr_control_indicator.yy",},
+    {"name":"spr_crate","order":7,"path":"sprites/spr_crate/spr_crate.yy",},
     {"name":"spr_end_level","order":3,"path":"sprites/spr_end_level/spr_end_level.yy",},
     {"name":"spr_enemy_1st_floor_hitbox","order":1,"path":"sprites/spr_enemy_1st_floor_hitbox/spr_enemy_1st_floor_hitbox.yy",},
     {"name":"spr_enemy_1st_floor","order":2,"path":"sprites/spr_enemy_1st_floor/spr_enemy_1st_floor.yy",},
@@ -62,6 +63,5 @@
     {"name":"spr_ground","order":5,"path":"sprites/spr_ground/spr_ground.yy",},
     {"name":"spr_lawn","order":1,"path":"sprites/spr_lawn/spr_lawn.yy",},
     {"name":"spr_player_walk","order":1,"path":"sprites/spr_player_walk/spr_player_walk.yy",},
-    {"name":"spr_crate","order":7,"path":"sprites/spr_crate/spr_crate.yy",},
   ],
 }

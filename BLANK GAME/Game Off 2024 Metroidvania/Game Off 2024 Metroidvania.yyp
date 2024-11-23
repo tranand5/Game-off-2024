@@ -67,7 +67,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.6.2.162",
   },
   "name":"Game Off 2024 Metroidvania",
   "resources":[
@@ -124,6 +124,7 @@
     {"id":{"name":"spr_button_wasd","path":"sprites/spr_button_wasd/spr_button_wasd.yy",},},
     {"id":{"name":"spr_checkpoint","path":"sprites/spr_checkpoint/spr_checkpoint.yy",},},
     {"id":{"name":"spr_control_indicator","path":"sprites/spr_control_indicator/spr_control_indicator.yy",},},
+    {"id":{"name":"spr_crate","path":"sprites/spr_crate/spr_crate.yy",},},
     {"id":{"name":"spr_end_level","path":"sprites/spr_end_level/spr_end_level.yy",},},
     {"id":{"name":"spr_enemy_1st_floor_hitbox","path":"sprites/spr_enemy_1st_floor_hitbox/spr_enemy_1st_floor_hitbox.yy",},},
     {"id":{"name":"spr_enemy_1st_floor","path":"sprites/spr_enemy_1st_floor/spr_enemy_1st_floor.yy",},},
@@ -141,7 +142,6 @@
     {"id":{"name":"spr_player_up_right","path":"sprites/spr_player_up_right/spr_player_up_right.yy",},},
     {"id":{"name":"spr_player_walk","path":"sprites/spr_player_walk/spr_player_walk.yy",},},
     {"id":{"name":"spr_state_trigger","path":"sprites/spr_state_trigger/spr_state_trigger.yy",},},
-    {"id":{"name":"spr_crate","path":"sprites/spr_crate/spr_crate.yy",},},
     {"id":{"name":"ts_indoor_tiles","path":"tilesets/ts_indoor_tiles/ts_indoor_tiles.yy",},},
   ],
   "resourceType":"GMProject",
