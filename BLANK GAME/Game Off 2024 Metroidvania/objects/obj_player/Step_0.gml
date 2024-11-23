@@ -25,6 +25,14 @@ if (CheckForAnyGroundTile(x, y + 2) == true)
 		y_speed = abs(x_speed);
 		x_speed = 0;
 	}
+	if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash == true))
+	{
+		x_speed = 0;
+	}
+	if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash == false))
+	{
+		instance_destroy(obj_crate);
+	}
 	if (keyboard_check_pressed(vk_space))
 	{
 		y_speed = -jump_speed;

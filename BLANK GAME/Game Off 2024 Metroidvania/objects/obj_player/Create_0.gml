@@ -19,3 +19,16 @@ array_set(all_ground_tiles, 2, obj_ground_up_right);
 // Pause values
 //is_paused = false;
 //paused_id = -1;
+
+//	Spawn Position Switcher
+switch (room)
+{
+	case rm_first_floor:
+		x = 230;
+		y = 1560;
+	break;
+	
+	default:
+		//
+	break;
+}
