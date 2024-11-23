@@ -8,6 +8,10 @@ switch (room)
 		image_index = 0;
 	break;
 	
+	case rm_garden:
+		image_index = 0;
+	break;
+	
 	case rm_first_floor:
 		image_index = 1;
 	break;

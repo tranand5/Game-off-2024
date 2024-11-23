@@ -134,6 +134,7 @@ if (x_speed = 0)
 {
 	sprite_index = spr_player_idle;
 }
+
 // Pause menu system
 //if (keyboard_check_pressed(vk_escape))
 //{
