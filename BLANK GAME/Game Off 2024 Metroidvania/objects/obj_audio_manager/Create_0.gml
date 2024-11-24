@@ -8,9 +8,9 @@ gmwInit();
 var path = "";
 
 if (os_type == os_macosx)
-    path = working_directory + "sound/banks/Mac";
+    path = working_directory + "sound/banks/Mac/";
 else
-    path = working_directory + "sound/banks/Windows";
+    path = working_directory + "sound/banks/Windows/";
     
 gmwSetBasePath(path);
     
@@ -27,6 +27,7 @@ gmwRegisterObject(id, global.DEFAULT_GROUP, "obj_audio_manager");
 //// Initialize links to IDs
 global.player_movement = 541470702;
 global.player_jump = 3689126666;
+gmwPostEvent(global.player_movement,id);
 //global.WWE_BOUNCE = 3465618802;
 //global.WWE_PLAY_MUSIC = 2932040671;
 
