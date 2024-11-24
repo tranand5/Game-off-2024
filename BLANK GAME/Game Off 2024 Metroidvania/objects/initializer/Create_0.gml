@@ -1,3 +1,5 @@
-//only present in first room
+//	only present in first room
+
 randomize();
-layer_set_visible("Triggers", false);
+//init globals
+global.player_weapon = "none";
