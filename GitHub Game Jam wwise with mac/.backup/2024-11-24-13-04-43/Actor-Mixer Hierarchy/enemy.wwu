@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}" SchemaVersion="119" RootDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" ParentDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}">
+	<AudioObjects>
+		<WorkUnit Name="enemy" ID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}" OwnerID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" PersistMode="Nested">
+			<ChildrenList>
+				<WorkUnit Name="Enemy_Locomotion" ID="{9B9D1568-B718-4A1D-82C7-D263BED4D895}" PersistMode="Reference"/>
+				<RandomSequenceContainer Name="hit hurt" ID="{5E081394-012D-4FC8-8727-EEEBEC4840A0}" ShortID="15648583">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4E14936F-DA82-4192-A5F5-609799B04B2A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{55256AC4-352F-4C0A-8EED-910BFA55C87F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="E hitHurt(1)" ID="{71676A9B-5920-4665-AD40-DEE3B7993B6C}" ShortID="20369482">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4E14936F-DA82-4192-A5F5-609799B04B2A}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{55256AC4-352F-4C0A-8EED-910BFA55C87F}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="E hitHurt(1)" ID="{A47CF641-29FE-474F-8772-22BFBC7E0F2E}">
+									<Language>SFX</Language>
+									<AudioFile>E hitHurt(1).wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="726311461"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="E hitHurt(1)" ID="{A47CF641-29FE-474F-8772-22BFBC7E0F2E}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="E hitHurt(2)" ID="{DD09F19D-1BEE-4C9B-9F9D-8D047E15AFD1}" ShortID="176724127">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4E14936F-DA82-4192-A5F5-609799B04B2A}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{55256AC4-352F-4C0A-8EED-910BFA55C87F}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="E hitHurt(2)" ID="{2BAB70CB-A5AE-4097-B82A-37CB49CE4311}">
+									<Language>SFX</Language>
+									<AudioFile>E hitHurt(2).wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1001720235"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="E hitHurt(2)" ID="{2BAB70CB-A5AE-4097-B82A-37CB49CE4311}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="E hitHurt(3)" ID="{418DC0F8-1B99-4A72-B535-FCB68CB765F9}" ShortID="182209472">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4E14936F-DA82-4192-A5F5-609799B04B2A}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{55256AC4-352F-4C0A-8EED-910BFA55C87F}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="E hitHurt(3)" ID="{FF275BAC-0B1E-4962-B766-97A6438E031C}">
+									<Language>SFX</Language>
+									<AudioFile>E hitHurt(3).wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="824583479"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="E hitHurt(3)" ID="{FF275BAC-0B1E-4962-B766-97A6438E031C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="E hitHurt(4)" ID="{ACE3241A-29A9-4410-8687-35AE78530AF9}" ShortID="690708017">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4E14936F-DA82-4192-A5F5-609799B04B2A}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{55256AC4-352F-4C0A-8EED-910BFA55C87F}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="E hitHurt(4)" ID="{25699188-4236-4F7A-989E-8D2615566C31}">
+									<Language>SFX</Language>
+									<AudioFile>E hitHurt(4).wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="347807902"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="E hitHurt(4)" ID="{25699188-4236-4F7A-989E-8D2615566C31}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<Sound Name="enemy death" ID="{661A9624-D80F-4EF1-A1AF-8786D1030CC1}" ShortID="514715148">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{4E14936F-DA82-4192-A5F5-609799B04B2A}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{55256AC4-352F-4C0A-8EED-910BFA55C87F}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="enemy death" ID="{5C596172-5E93-4D55-952A-C72605E8607E}">
+							<Language>SFX</Language>
+							<AudioFile>enemy death.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="69724844"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="enemy death" ID="{5C596172-5E93-4D55-952A-C72605E8607E}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

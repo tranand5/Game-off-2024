@@ -6,7 +6,7 @@ gmwSet2DPosition(id, x, y, 0, 0);
 if (global.controls = "wasd")
 {
 	x_direction = keyboard_check(ord("D")) - keyboard_check(ord("A"));
-	gmwPostEvent(global.player_movement, id);
+	gmwPostEvent(global.Player_movement, id);
 }
 if (global.controls = "arrows")
 {
@@ -93,6 +93,7 @@ switch (state)
 	
 	case "airborn":
 		//sprite_index = spr_player_airborn;
+		gmwPostEvent(global.player_jump,id);
 	break;
 	
 	case "dash":

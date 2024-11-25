@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ValidationCache Version="1" SchemaVersion="119">
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Virtual Acoustics\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Triggers\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Switches\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\States\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\SoundBanks\Default Work Unit.wwu" DateLow="1732382180" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Queries\Factory Queries.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Queries\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Presets\Factory Spatial Audio.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Presets\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Modulators\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Mixing Sessions\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Metadata\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\GitHub Game Jam.wproj" DateLow="1732380053" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\GitHub Game Jam.crossover.wsettings" DateLow="1732382711" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Game Parameters\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Player_Locomotion.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Player_items.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Player.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Level.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Enemy.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Effects\Factory Effects.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Effects\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Conversion Settings\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Control Surface Sessions\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Audio Devices\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Attenuations\distance.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Attenuations\Default Work Unit.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\Player_locomotion.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\player.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\Level.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\Enemy_Locomotion.wwu" DateLow="1732303976" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\enemy.wwu" DateLow="1732319256" DateHigh="0"/>
-	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1732380431" DateHigh="0"/>
+<ValidationCache Version="1" SchemaVersion="123">
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Virtual Acoustics\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Triggers\Default Work Unit.wwu" DateLow="1732471483" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Switches\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\States\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\SoundBanks\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Queries\Factory Queries.wwu" DateLow="1732471483" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Queries\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Presets\Factory Spatial Audio.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Presets\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Modulators\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Mixing Sessions\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Metadata\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1732471483" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\GitHub Game Jam.wproj" DateLow="1732471483" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\GitHub Game Jam.crossover.wsettings" DateLow="1732506164" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Game Parameters\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Player_Locomotion.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Player_items.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Player.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Level.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Enemy.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Events\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Effects\Factory Effects.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Effects\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1732471483" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Conversion Settings\Default Work Unit.wwu" DateLow="1732471483" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Control Surface Sessions\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Audio Devices\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Attenuations\distance.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Attenuations\Default Work Unit.wwu" DateLow="1732471483" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\Player_locomotion.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\player.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\Level.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\Enemy_Locomotion.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\enemy.wwu" DateLow="1732471484" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\GameOff2024\GameOff2024\GitHub Game Jam wwise with mac\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1732471484" DateHigh="0"/>
 </ValidationCache>

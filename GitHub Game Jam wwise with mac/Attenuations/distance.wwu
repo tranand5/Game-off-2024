@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{5F468B6C-E5FA-4BA0-9C34-59F1F8876B7A}" SchemaVersion="119">
+<WwiseDocument Type="WorkUnit" ID="{5F468B6C-E5FA-4BA0-9C34-59F1F8876B7A}" SchemaVersion="123">
 	<Attenuations>
 		<WorkUnit Name="distance" ID="{5F468B6C-E5FA-4BA0-9C34-59F1F8876B7A}" PersistMode="Standalone">
 			<ChildrenList>

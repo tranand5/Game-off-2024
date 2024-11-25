@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}" SchemaVersion="119" RootDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" ParentDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}">
+<WwiseDocument Type="WorkUnit" ID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}" SchemaVersion="123" RootDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" ParentDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}">
 	<AudioObjects>
 		<WorkUnit Name="enemy" ID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}" OwnerID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" PersistMode="Nested">
 			<ChildrenList>

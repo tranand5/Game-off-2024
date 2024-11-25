@@ -3,10 +3,12 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{D23FA608-656A-4CAD-95BC-A7C3ED94D0EF}">
 			<PropertyList>
+				<Property Name="AudioFilesImporter\Path" Type="string" Value="Y:\GameOff2024\GameOff2024\audio\"/>
 				<Property Name="Event Action List\{1B432A70-22D0-4E2E-8741-68912C15FFFA}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{1EF256F9-54BE-43A9-A031-7F227BE3EBE8}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{56333DD8-A8D9-44A3-AA0F-D0953910CCC6}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{59DCF2EA-A6AE-4DE7-8A09-73547538C8D5}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{613C826D-9393-495E-B618-7915425103E2}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{74F8C45F-EB15-40A5-89DC-CC35582A86EC}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{95ED61C3-2A86-45E2-AB09-27C2603D1A32}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{9DC2DB7C-7C42-4FDF-8D09-572F6E1A84E0}\x64_Expand States" Type="string" Value=""/>
@@ -27,10 +29,10 @@
 				</Property>
 				<Property Name="Game Profiler\Voice Monitor\LastBus" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="General\LatestLanguage" Type="int32" Value="684519430"/>
-				<Property Name="General\LatestPlatform" Type="string" Value="Windows"/>
+				<Property Name="General\LatestPlatform" Type="string" Value="Mac"/>
 				<Property Name="General\SourceControlPluginID" Type="string" Value="{C403A906-0C19-4ED5-808E-748707065301}"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="M5CxacafuEqdcnLabA9xrQ=="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="+kkT+afKuECXeaBoD9HwQQ=="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="uPtC65JebEWQCxyZsPrKUA=="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
@@ -47,12 +49,12 @@
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{618C1FF9-37D4-45A7-AF0A-E2D511E44707}" Type="string" Value=""/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{826CEF9F-ACB3-45D2-8319-9C9994E4CA5C}" Type="string" Value=""/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{A45AAC64-78D1-46A7-88FA-F242B38651B4}" Type="string" Value=""/>
-				<Property Name="ObjectTabPanel\x64_CurrentObjects_{D5805147-985E-4C5B-B817-369AF1B7184D}" Type="string" Value="ewBEAEQAMAA5AEYAMQA5AEQALQAxAEIARQBFAC0ANABDADkAQgAtADkARgA5AEQALQA4AEQAMAA0ADcARQAxADUAQQBGAEQAMQB9AAAAAQF7ADcAMQA2ADcANgBBADkAQgAtADUAOQAyADAALQA0ADYANgA1AC0AQQBEADQAMAAtAEQARQBFADMAQgA3ADkAOQAzAEIANgBDAH0AAAABAXsAMAAzADQARgA4ADYAOQAxAC0AQQBGAEIANgAtADQAOABDADEALQBCADIAQgBCAC0ARABEADIAQwBDADAAMgBBADMAQgBDAEIAfQAAAAEB"/>
+				<Property Name="ObjectTabPanel\x64_CurrentObjects_{D5805147-985E-4C5B-B817-369AF1B7184D}" Type="string" Value=""/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{FB6925F8-3EDD-42F1-B446-654A30D756CF}" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\AudioSelectionChannel1\ProjectExplorer2LastScrollState" Type="int32" Value="0"/>
-				<Property Name="ProjectExplorer\AudioSelectionChannel1\x64_ProjectExplorer2LastExpandedState" Type="string" Value="iC8JJ1oiVBFnJcijTz1EgtMLJl6S0dpEkv1aq1ULf2Xq2ogjdZfGRqLtxSIqOXdWxGolVS81CkyO7ZEL+lXIf/i7p17AZFBKiCGgfoviHWiYD4e/6XmbRoGvKflUBq/uahIrzcusu0y2SxL8F3KYnJQTCF4tAchPhyfu6+xIQKDQJuz6oUbaRYRazv51Z5RKkIOtgG7fU0SzfdTHK08s68uEQQKi9UpDoqGv7jDbvaZm0/5JMLWoQpk7kkhzqrcH"/>
-				<Property Name="ProjectExplorer\AudioSelectionChannel2\ProjectExplorer2LastScrollState" Type="int32" Value="9"/>
-				<Property Name="ProjectExplorer\AudioSelectionChannel2\x64_ProjectExplorer2LastExpandedState" Type="string" Value="iC8JJ1oiVBFnJcijTz1EguraiCN1l8ZGou3FIio5d1b4u6dewGRQSoghoH6L4h1omA+Hv+l5m0aBryn5VAav7tAm7PqhRtpFhFrO/nVnlEqQg62Abt9TRLN91McrTyzry4RBAqL1SkOioa/uMNu9psjSYSX9EFtKpTAZ9IuMoFkGfoTOSdkBSaPGdK6qa3ZbeXHdZimLAEq+1hONUO1vuDKO+g7w1JBKliejZ4RYjB1g98n+DkeBRpB8GLDMRNM+A5EdsoKRuEyfEGX0BqEes2bT/kkwtahCmTuSSHOqtwc="/>
+				<Property Name="ProjectExplorer\AudioSelectionChannel1\ProjectExplorer2LastScrollState" Type="int32" Value="3"/>
+				<Property Name="ProjectExplorer\AudioSelectionChannel1\x64_ProjectExplorer2LastExpandedState" Type="string" Value="iC8JJ1oiVBFnJcijTz1EgtMLJl6S0dpEkv1aq1ULf2Xq2ogjdZfGRqLtxSIqOXdWxGolVS81CkyO7ZEL+lXIf/i7p17AZFBKiCGgfoviHWiYD4e/6XmbRoGvKflUBq/uahIrzcusu0y2SxL8F3KYnGgVnZsYtx1KgsfSY77U2JWNhPT0I5q+QJRH/aeJEKr3q/+9XAD46Eaz0Zckt4opUJQTCF4tAchPhyfu6+xIQKDQJuz6oUbaRYRazv51Z5RKkIOtgG7fU0SzfdTHK08s68uEQQKi9UpDoqGv7jDbvaZm0/5JMLWoQpk7kkhzqrcH"/>
+				<Property Name="ProjectExplorer\AudioSelectionChannel2\ProjectExplorer2LastScrollState" Type="int32" Value="0"/>
+				<Property Name="ProjectExplorer\AudioSelectionChannel2\x64_ProjectExplorer2LastExpandedState" Type="string" Value="iC8JJ1oiVBFnJcijTz1EguraiCN1l8ZGou3FIio5d1b4u6dewGRQSoghoH6L4h1omA+Hv+l5m0aBryn5VAav7pCDrYBu31NEs33UxytPLOvLhEECovVKQ6Khr+4w272myNJhJf0QW0qlMBn0i4ygWQZ+hM5J2QFJo8Z0rqprdlt5cd1mKYsASr7WE41Q7W+4Mo76DvDUkEqWJ6NnhFiMHWD3yf4OR4FGkHwYsMxE0z4DkR2ygpG4TJ8QZfQGoR6zZtP+STC1qEKZO5JIc6q3Bw=="/>
 				<Property Name="ProjectExplorer\EventsSelectionChannel1\ProjectExplorer2LastScrollState" Type="int32" Value="0"/>
 				<Property Name="ProjectExplorer\EventsSelectionChannel1\x64_ProjectExplorer2LastExpandedState" Type="string" Value="/PCbpkrYfEir3Vb3HLKhJt71mjAfA+BMm5vApTYnU0M="/>
 				<Property Name="ProjectExplorer\EventsSelectionChannel2\ProjectExplorer2LastScrollState" Type="int32" Value="0"/>
@@ -90,8 +92,8 @@
 				<Property Name="SoundBankPathUserOverride" Type="bool" Value="True"/>
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>
-						<Value Platform="Mac">GeneratedSoundBanks\Mac\</Value>
-						<Value Platform="Windows">..\BLANK GAME\Game Off 2024 Metroidvania\datafiles\sound\banks\Mac\</Value>
+						<Value Platform="Mac">..\BLANK GAME\Game Off 2024 Metroidvania\datafiles\sound\banks\Mac\</Value>
+						<Value Platform="Windows">..\BLANK GAME\Game Off 2024 Metroidvania\datafiles\sound\banks\Windows\</Value>
 					</ValueList>
 				</Property>
 				<Property Name="SoundBankPostGenerateCustomCmdDescription" Type="string">

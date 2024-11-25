@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{9B9D1568-B718-4A1D-82C7-D263BED4D895}" SchemaVersion="119" RootDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" ParentDocumentID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}">
+<WwiseDocument Type="WorkUnit" ID="{9B9D1568-B718-4A1D-82C7-D263BED4D895}" SchemaVersion="123" RootDocumentID="{BF870F98-79E9-469B-81AF-29F95406AFEE}" ParentDocumentID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}">
 	<AudioObjects>
 		<WorkUnit Name="Enemy_Locomotion" ID="{9B9D1568-B718-4A1D-82C7-D263BED4D895}" OwnerID="{CD2B126A-ACCB-4CBB-B64B-12FC1772989C}" PersistMode="Nested">
 			<ChildrenList>
