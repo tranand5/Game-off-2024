@@ -25,13 +25,14 @@ if (CheckForAnyGroundTile(x, y + 2) == true)
 		y_speed = abs(x_speed);
 		x_speed = 0;
 	}
-	if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash == true))
+	//crate collisions
+	if ((position_meeting(x + x_speed, y, obj_crate)) && (global.player_weapon = "none"))
 	{
 		x_speed = 0;
 	}
-	if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash == false))
+	if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash = true))
 	{
-		instance_destroy(obj_crate);
+		x_speed = 0;
 	}
 	if (keyboard_check_pressed(vk_space))
 	{
@@ -134,6 +135,21 @@ if (x_speed < 0)
 if (x_speed = 0)
 {
 	sprite_index = spr_player_idle;
+}
+
+//	Weapon Switching System
+//equip plank
+if (!instance_exists(obj_plank) && (global.player_weapon == "plank"))
+{
+	instance_create_layer(x, y, "Instances", obj_plank);
+}
+//crate breaking
+if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash == false))
+{
+	if (global.player_weapon = "plank")
+	{
+		instance_destroy(obj_crate);
+	}
 }
 
 // Pause menu system
