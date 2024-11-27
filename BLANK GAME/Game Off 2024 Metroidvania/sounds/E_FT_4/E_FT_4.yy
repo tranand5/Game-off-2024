@@ -12,8 +12,8 @@
   "duration":0.213492,
   "name":"E_FT_4",
   "parent":{
-    "name":"Game Off 2024 Metroidvania",
-    "path":"Game Off 2024 Metroidvania.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

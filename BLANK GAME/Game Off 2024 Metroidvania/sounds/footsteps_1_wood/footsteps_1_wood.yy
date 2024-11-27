@@ -12,8 +12,8 @@
   "duration":0.195125,
   "name":"footsteps_1_wood",
   "parent":{
-    "name":"Game Off 2024 Metroidvania",
-    "path":"Game Off 2024 Metroidvania.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

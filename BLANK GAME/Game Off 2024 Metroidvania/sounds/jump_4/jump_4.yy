@@ -12,8 +12,8 @@
   "duration":0.128594,
   "name":"jump_4",
   "parent":{
-    "name":"Game Off 2024 Metroidvania",
-    "path":"Game Off 2024 Metroidvania.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
