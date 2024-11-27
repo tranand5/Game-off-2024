@@ -21,4 +21,5 @@ if (is_alive = false)
 {
 	instance_destroy(hitbox);
 	instance_destroy(self);
+	audio_play_sound(enemy_death, 10, 0);
 }

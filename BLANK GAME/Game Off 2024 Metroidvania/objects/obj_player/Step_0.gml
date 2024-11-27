@@ -38,7 +38,7 @@ if (CheckForAnyGroundTile(x, y + 2) == true)
 	if (keyboard_check_pressed(vk_space))
 	{
 		y_speed = -jump_speed;
-		audio_play_sound(choose(jump_1, jump_2, jump_3, jump_4),10,0);
+		audio_play_sound(player_jump,10,0);
 		//gmwPostEvent(global.player_jump, id);
 	}
 }
@@ -68,7 +68,7 @@ if ((can_dash == true) && (keyboard_check_pressed(vk_shift)))
 	state = "dash";
 	alarm[0] = room_speed * 0.25;
 	can_dash = false;
-	audio_play_sound(choose(dash_1, dash_2, dash_3, dash_4), 10, 0);
+	audio_play_sound(player_dash, 10, 0);
 }
 switch (state)
 {
