@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_shed_door",
+  "%Name":"obj_double_jump",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_shed_door",
+  "name":"obj_double_jump",
   "overriddenProperties":[],
   "parent":{
-    "name":"Environment",
-    "path":"folders/Objects/Environment.yy",
+    "name":"Pickups",
+    "path":"folders/Objects/Instances/Pickups.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_shed_door",
-    "path":"sprites/spr_shed_door/spr_shed_door.yy",
+    "name":"spr_double_jump",
+    "path":"sprites/spr_double_jump/spr_double_jump.yy",
   },
   "spriteMaskId":null,
   "visible":true,

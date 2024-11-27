@@ -18,6 +18,7 @@
     {"name":"Start Menu","order":4,"path":"folders/Sprites/Start Menu.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"drawer","order":7,"path":"objects/drawer/drawer.yy",},
     {"name":"obj_bkgd_slope_up_left","order":4,"path":"objects/obj_bkgd_slope_up_left/obj_bkgd_slope_up_left.yy",},
     {"name":"obj_bkgd_slope_up_right","order":2,"path":"objects/obj_bkgd_slope_up_right/obj_bkgd_slope_up_right.yy",},
     {"name":"obj_button_arrows","order":3,"path":"objects/obj_button_arrows/obj_button_arrows.yy",},
@@ -25,6 +26,7 @@
     {"name":"obj_button_wasd","order":2,"path":"objects/obj_button_wasd/obj_button_wasd.yy",},
     {"name":"obj_camera","order":2,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_crate","order":7,"path":"objects/obj_crate/obj_crate.yy",},
+    {"name":"obj_double_jump","order":3,"path":"objects/obj_double_jump/obj_double_jump.yy",},
     {"name":"obj_end_level","order":5,"path":"objects/obj_end_level/obj_end_level.yy",},
     {"name":"obj_enemy_1st_floor_hitbox","order":2,"path":"objects/obj_enemy_1st_floor_hitbox/obj_enemy_1st_floor_hitbox.yy",},
     {"name":"obj_enemy_1st_floor","order":1,"path":"objects/obj_enemy_1st_floor/obj_enemy_1st_floor.yy",},
@@ -41,7 +43,6 @@
     {"name":"obj_transition_linear_blur","order":1,"path":"objects/obj_transition_linear_blur/obj_transition_linear_blur.yy",},
     {"name":"obj_transition_parent","order":2,"path":"objects/obj_transition_parent/obj_transition_parent.yy",},
     {"name":"obj_transition_pixelate","order":3,"path":"objects/obj_transition_pixelate/obj_transition_pixelate.yy",},
-    {"name":"drawer","order":7,"path":"objects/drawer/drawer.yy",},
     {"name":"text_debugger","order":1,"path":"objects/text_debugger/text_debugger.yy",},
     {"name":"rm_attic","order":10,"path":"rooms/rm_attic/rm_attic.yy",},
     {"name":"rm_basement","order":8,"path":"rooms/rm_basement/rm_basement.yy",},
@@ -71,5 +72,6 @@
     {"name":"spr_shed_door","order":3,"path":"sprites/spr_shed_door/spr_shed_door.yy",},
     {"name":"spr_shed_key","order":2,"path":"sprites/spr_shed_key/spr_shed_key.yy",},
     {"name":"spr_shed","order":2,"path":"sprites/spr_shed/spr_shed.yy",},
+    {"name":"spr_double_jump","order":3,"path":"sprites/spr_double_jump/spr_double_jump.yy",},
   ],
 }

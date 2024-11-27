@@ -19,6 +19,7 @@ x_speed = x_direction * move_speed;
 //y direction
 if (CheckForAnyGroundTile(x, y + 2) == true)
 {
+	//if theres a ground tile below the player, set y speed to 0
 	y_speed = 0;
 	if (!CheckForAnyGroundTile(x + x_speed, y + 2) && CheckForAnyGroundTile(x + x_speed, y + 10))
 	{
@@ -42,6 +43,12 @@ if (CheckForAnyGroundTile(x, y + 2) == true)
 }
 else
 {
+	if ((global.can_double_jump = true) && keyboard_check_pressed(vk_space))
+	{
+		y_speed = -jump_speed;
+		alarm[1] = room_speed;
+		global.can_double_jump = false;
+	}
 	if (y_speed < 10)
 	{
 		y_speed += 1;
