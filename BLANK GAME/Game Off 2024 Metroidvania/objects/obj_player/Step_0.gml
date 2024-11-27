@@ -13,6 +13,14 @@ if (global.controls = "arrows")
 	x_direction = keyboard_check(vk_right) - keyboard_check(vk_left);
 	//gmwPostEvent(global.player_movement, id);
 }
+if (keyboard_check_pressed(ord("A") || ord("D")))
+{
+	is_moving = true;
+	if (is_moving)
+	{
+		audio_play_sound(player_concrete, 10, 0);
+	}
+}
 //	Calculate Speed
 //x direction
 x_speed = x_direction * move_speed;

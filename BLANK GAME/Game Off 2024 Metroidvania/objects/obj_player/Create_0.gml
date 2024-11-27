@@ -23,6 +23,9 @@ player_wood = choose(footsteps_1_wood, footsteps_2_wood, footsteps_3_wood, foots
 player_dash = choose(dash_1, dash_2, dash_3, dash_4);
 player_jump = choose(jump_1, jump_2, jump_3, jump_4);
 
+// Boolean values
+is_moving = false;
+
 // Pause values
 //is_paused = false;
 //paused_id = -1;

@@ -51,7 +51,7 @@
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{618C1FF9-37D4-45A7-AF0A-E2D511E44707}" Type="string" Value=""/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{826CEF9F-ACB3-45D2-8319-9C9994E4CA5C}" Type="string" Value=""/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{A45AAC64-78D1-46A7-88FA-F242B38651B4}" Type="string" Value=""/>
-				<Property Name="ObjectTabPanel\x64_CurrentObjects_{D5805147-985E-4C5B-B817-369AF1B7184D}" Type="string" Value="ewA0ADEAMwA0ADAARABCADAALQA3ADgAQgAxAC0ANAAxADYARAAtAEIAMgBGAEEALQBFAEQANgA4ADAANAAzADQAMwA2AEQAQQB9AAAAAQF7ADUANgAzADMAMwBEAEQAOAAtAEEAOABEADkALQA0ADQAQQAzAC0AQQBBADAARgAtAEQAMAA5ADUAMwA5ADEAMABDAEMAQwA2AH0AAAABAXsAOQBEAEMAMgBEAEIANwBDAC0ANwBDADQAMgAtADQARgBEAEYALQA4AEQAMAA5AC0ANQA3ADIARgA2AEUAMQBBADgANABFADAAfQAAAAAB"/>
+				<Property Name="ObjectTabPanel\x64_CurrentObjects_{D5805147-985E-4C5B-B817-369AF1B7184D}" Type="string" Value="ewA0ADEAMwA0ADAARABCADAALQA3ADgAQgAxAC0ANAAxADYARAAtAEIAMgBGAEEALQBFAEQANgA4ADAANAAzADQAMwA2AEQAQQB9AAAAAQF7ADUANgAzADMAMwBEAEQAOAAtAEEAOABEADkALQA0ADQAQQAzAC0AQQBBADAARgAtAEQAMAA5ADUAMwA5ADEAMABDAEMAQwA2AH0AAAABAXsAOQA1AEUARAA2ADEAQwAzAC0AMgBBADgANgAtADQANQBFADIALQBBAEIAMAA5AC0AMgA3AEMAMgA2ADAAMwBEADEAQQAzADIAfQAAAAEBewA2ADEAMwBDADgAMgA2AEQALQA5ADMAOQAzAC0ANAA5ADUARQAtAEIANgAxADgALQA3ADkAMQA1ADQAMgA1ADEAMAAzAEUAMgB9AAAAAAE="/>
 				<Property Name="ObjectTabPanel\x64_CurrentObjects_{FB6925F8-3EDD-42F1-B446-654A30D756CF}" Type="string" Value=""/>
 				<Property Name="OverrideCacheFolder\Active" Type="bool" Value="False"/>
 				<Property Name="OverrideCacheFolder\Path" Type="string" Value=".cache"/>
@@ -79,8 +79,8 @@
 				<Property Name="ProjectExplorer\SelectionChannel2\CurrentTab" Type="int32" Value="1"/>
 				<Property Name="ProjectExplorer\SelectionChannel_1\Audio_FocusedObject" Type="string" Value="{CE847E06-D949-4901-A3C6-74AEAA6B765B}"/>
 				<Property Name="ProjectExplorer\SelectionChannel_1\CurrentSearch" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\SelectionChannel_1\CurrentTab" Type="int32" Value="2"/>
-				<Property Name="ProjectExplorer\SelectionChannel_1\Events_FocusedObject" Type="string" Value="{9DC2DB7C-7C42-4FDF-8D09-572F6E1A84E0}"/>
+				<Property Name="ProjectExplorer\SelectionChannel_1\CurrentTab" Type="int32" Value="1"/>
+				<Property Name="ProjectExplorer\SelectionChannel_1\Events_FocusedObject" Type="string" Value="{613C826D-9393-495E-B618-7915425103E2}"/>
 				<Property Name="ProjectExplorer\SelectionChannel_1\Game Syncs_FocusedObject" Type="string" Value="{CB6175F1-6080-4A23-92EF-0807E304D0C1}"/>
 				<Property Name="ProjectExplorer\SelectionChannel_1\Queries_FocusedObject" Type="string" Value="{23EC2DE3-3ED8-4B82-AC99-92E25F2E4C6B}"/>
 				<Property Name="ProjectExplorer\SelectionChannel_1\Sessions_FocusedObject" Type="string" Value="{4C96B38B-3DB4-40C7-91C9-665510E38993}"/>
@@ -313,7 +313,7 @@
 				<Property Name="TabPropertyEditor\LayoutInstanceId_PropertyEditorInObjectTabRight_{D5805147-985E-4C5B-B817-369AF1B7184D}\x64_ExpandedGroups" Type="string" Value="AAAAAAAAAAA="/>
 				<Property Name="TabPropertyEditor\LayoutInstanceId_PropertyEditorInObjectTabRight_{D5805147-985E-4C5B-B817-369AF1B7184D}\x64_ExpandedGroupsAllMode" Type="string" Value="AAAAAAAAAAA="/>
 				<Property Name="TabPropertyEditor\LayoutInstanceId_PropertyEditorInObjectTabRight_{D5805147-985E-4C5B-B817-369AF1B7184D}\x64_HiddenCategories" Type="string" Value="AgAAAAAAAABIRFIATUlESQA="/>
-				<Property Name="TabPropertyEditor\LayoutInstanceId_PropertyEditorInObjectTabRight_{D5805147-985E-4C5B-B817-369AF1B7184D}\x64_InspectedObject" Type="string" Value="sA00QbF4bUGy+u1oBDQ22g=="/>
+				<Property Name="TabPropertyEditor\LayoutInstanceId_PropertyEditorInObjectTabRight_{D5805147-985E-4C5B-B817-369AF1B7184D}\x64_InspectedObject" Type="string" Value=""/>
 				<Property Name="TabPropertyEditor\LayoutInstanceId_PropertyEditorInObjectTabRight_{D5805147-985E-4C5B-B817-369AF1B7184D}\x64_RecentCategories" Type="string" Value="AAAAAAAAAAA="/>
 				<Property Name="TabPropertyEditor\LayoutInstanceId_PropertyEditorInObjectTabRight_{E1A81A94-FCAE-4D68-A434-6C2D930672DF}\CurrentSearch" Type="string" Value=""/>
 				<Property Name="TabPropertyEditor\LayoutInstanceId_PropertyEditorInObjectTabRight_{E1A81A94-FCAE-4D68-A434-6C2D930672DF}\RecentCategoriesTopCount" Type="int32" Value="0"/>
