@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"footstep_3_grass",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.031247,
+  "name":"footstep_3_grass",
+  "parent":{
+    "name":"Game Off 2024 Metroidvania",
+    "path":"Game Off 2024 Metroidvania.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"footstep_3_grass.wav",
+  "type":0,
+  "volume":1.0,
+}
