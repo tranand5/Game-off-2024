@@ -1,17 +1,17 @@
 //	Get Player Directional Input
 
-gmwSet2DListenerPosition(x, y, 0, 0);
-gmwSet2DPosition(id, x, y, 0, 0);
+//gmwSet2DListenerPosition(x, y, 0, 0);
+//gmwSet2DPosition(id, x, y, 0, 0);
 
 if (global.controls = "wasd")
 {
 	x_direction = keyboard_check(ord("D")) - keyboard_check(ord("A"));
-	gmwPostEvent(global.Player_movement, id);
+	//gmwPostEvent(global.Player_movement, id);
 }
 if (global.controls = "arrows")
 {
 	x_direction = keyboard_check(vk_right) - keyboard_check(vk_left);
-	gmwPostEvent(global.player_movement, id);
+	//gmwPostEvent(global.player_movement, id);
 }
 //	Calculate Speed
 //x direction
@@ -38,7 +38,8 @@ if (CheckForAnyGroundTile(x, y + 2) == true)
 	if (keyboard_check_pressed(vk_space))
 	{
 		y_speed = -jump_speed;
-		gmwPostEvent(global.player_jump, id);
+		audio_play_sound(choose(jump_1, jump_2, jump_3, jump_4),10,0);
+		//gmwPostEvent(global.player_jump, id);
 	}
 }
 else
@@ -67,6 +68,7 @@ if ((can_dash == true) && (keyboard_check_pressed(vk_shift)))
 	state = "dash";
 	alarm[0] = room_speed * 0.25;
 	can_dash = false;
+	audio_play_sound(choose(dash_1, dash_2, dash_3, dash_4), 10, 0);
 }
 switch (state)
 {
