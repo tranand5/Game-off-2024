@@ -1,4 +1,4 @@
-gmwRegisterObject(id, global.DEFAULT_GROUP, "obj_player");
+//gmwRegisterObject(id, global.DEFAULT_GROUP, "obj_player");
 
 //movement init
 move_speed = 6;
