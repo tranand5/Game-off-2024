@@ -26,6 +26,7 @@
     {"name":"obj_button_wasd","order":2,"path":"objects/obj_button_wasd/obj_button_wasd.yy",},
     {"name":"obj_camera","order":2,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"obj_crate","order":7,"path":"objects/obj_crate/obj_crate.yy",},
+    {"name":"obj_crowbar","order":4,"path":"objects/obj_crowbar/obj_crowbar.yy",},
     {"name":"obj_double_jump","order":3,"path":"objects/obj_double_jump/obj_double_jump.yy",},
     {"name":"obj_end_level","order":5,"path":"objects/obj_end_level/obj_end_level.yy",},
     {"name":"obj_enemy_1st_floor_hitbox","order":2,"path":"objects/obj_enemy_1st_floor_hitbox/obj_enemy_1st_floor_hitbox.yy",},
@@ -98,6 +99,7 @@
     {"name":"spr_button_wasd","order":2,"path":"sprites/spr_button_wasd/spr_button_wasd.yy",},
     {"name":"spr_control_indicator","order":4,"path":"sprites/spr_control_indicator/spr_control_indicator.yy",},
     {"name":"spr_crate","order":7,"path":"sprites/spr_crate/spr_crate.yy",},
+    {"name":"spr_crowbar","order":4,"path":"sprites/spr_crowbar/spr_crowbar.yy",},
     {"name":"spr_double_jump","order":3,"path":"sprites/spr_double_jump/spr_double_jump.yy",},
     {"name":"spr_end_level","order":3,"path":"sprites/spr_end_level/spr_end_level.yy",},
     {"name":"spr_enemy_1st_floor_hitbox","order":1,"path":"sprites/spr_enemy_1st_floor_hitbox/spr_enemy_1st_floor_hitbox.yy",},
@@ -111,5 +113,6 @@
     {"name":"spr_shed_door","order":3,"path":"sprites/spr_shed_door/spr_shed_door.yy",},
     {"name":"spr_shed_key","order":2,"path":"sprites/spr_shed_key/spr_shed_key.yy",},
     {"name":"spr_shed","order":2,"path":"sprites/spr_shed/spr_shed.yy",},
+    {"name":"spr_player_dash_weapon","order":2,"path":"sprites/spr_player_dash_weapon/spr_player_dash_weapon.yy",},
   ],
 }

@@ -62,8 +62,16 @@ switch (global.last_room)
 	break;
 	
 	case "garden":
-		x = 4768;
-		y = 1595;
+		if (room == rm_first_floor)
+		{
+			x = 4768;
+			y = 1595;
+		}
+		if (room == rm_attic)
+		{
+			x = 1944;
+			y = 1460;
+		}
 	break;
 	
 	case "second floor":
@@ -74,14 +82,22 @@ switch (global.last_room)
 		}
 		if (room == rm_first_floor)
 		{
-			x = 2274;
-			y = 184;
+			x = 1850;
+			y = 530;
 		}
 	break;
 	
 	case "attic":
+	if (room == rm_second_floor)
+	{
 		x = 2293;
 		y = 194;
+	}
+	if (room == rm_garden)
+	{
+		x = 650;
+		y = 650;
+	}
 	break;
 	
 	default:

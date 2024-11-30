@@ -74,10 +74,14 @@ if (state != "dash")
 if ((can_dash == true) && (keyboard_check_pressed(vk_shift)))
 {
 	last_state = state;
+	if (global.player_weapon != "none")
+	{
+		sprite_index = spr_player_dash_weapon;
+	}
 	state = "dash";
 	alarm[0] = room_speed * 0.25;
-	can_dash = false;
 	audio_play_sound(player_dash, 10, 0);
+	can_dash = false;
 }
 switch (state)
 {
@@ -117,7 +121,10 @@ switch (state)
 	
 	case "dash":
 		move_speed = dash_speed;
-		image_alpha = 0;
+		if (global.player_weapon == "none")
+		{
+			image_alpha = 0;
+		}
 	break;
 	
 	default:
@@ -140,19 +147,33 @@ if (place_meeting(x, y, obj_ground))
 }
 
 //	Flip Sprite
-if (x_speed > 0)
+if (state != "dash")
 {
-	sprite_index = spr_player_walk;
-	image_xscale = 1;
+	if (x_speed > 0)
+	{
+		sprite_index = spr_player_walk;
+		image_xscale = 1;
+	}	
+	if (x_speed < 0)
+	{
+		sprite_index = spr_player_walk;
+		image_xscale = -1;
+	}
+	if (x_speed = 0)
+	{
+		sprite_index = spr_player_idle;
+	}
 }
-if (x_speed < 0)
+if (state == "dash")
 {
-	sprite_index = spr_player_walk;
-	image_xscale = -1;
-}
-if (x_speed = 0)
-{
-	sprite_index = spr_player_idle;
+	if (x_speed > 0)
+	{
+		image_xscale = 1;
+	}	
+	if (x_speed < 0)
+	{
+		image_xscale = -1;
+	}
 }
 
 //	Weapon Switching System
@@ -160,6 +181,10 @@ if (x_speed = 0)
 if (!instance_exists(obj_plank) && (global.player_weapon == "plank"))
 {
 	instance_create_layer(x, y, "Instances", obj_plank);
+}
+if (!instance_exists(obj_crowbar) && (global.player_weapon == "crowbar"))
+{
+	instance_create_layer(x, y, "Instances", obj_crowbar);
 }
 //crate breaking
 if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash == false))
