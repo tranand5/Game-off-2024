@@ -15,12 +15,13 @@ if (global.controls = "arrows")
 }
 if (keyboard_check_pressed(ord("A") || ord("D")))
 {
-	is_moving = true;
-	if (is_moving)
-	{
-		audio_play_sound(player_concrete, 10, 0);
-	}
+	audio_play_sound(player_concrete, 10, true);
 }
+
+if keyboard_check_released(ord("A") || ord("D"))
+	{
+		audio_stop_sound(player_concrete);
+	}
 //	Calculate Speed
 //x direction
 x_speed = x_direction * move_speed;

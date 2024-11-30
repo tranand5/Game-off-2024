@@ -16,6 +16,7 @@ if (!CheckForAnyGroundTile(self.x + move_speed, self.y + 2))
 }
 //move enemy
 x += move_speed;
+
 //destroy enemy
 if (is_alive = false)
 {
