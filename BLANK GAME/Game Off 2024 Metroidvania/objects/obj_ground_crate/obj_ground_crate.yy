@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ground",
+  "%Name":"obj_ground_crate",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_ground",
+  "name":"obj_ground_crate",
   "overriddenProperties":[],
   "parent":{
     "name":"Environment",
@@ -34,5 +34,5 @@
     "path":"sprites/spr_ground/spr_ground.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

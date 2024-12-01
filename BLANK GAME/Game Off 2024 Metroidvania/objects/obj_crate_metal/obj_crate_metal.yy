@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ground",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_crate_metal",
+  "eventList":[],
   "managed":true,
-  "name":"obj_ground",
+  "name":"obj_crate_metal",
   "overriddenProperties":[],
   "parent":{
-    "name":"Environment",
-    "path":"folders/Objects/Environment.yy",
+    "name":"Instances",
+    "path":"folders/Objects/Instances.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ground",
-    "path":"sprites/spr_ground/spr_ground.yy",
+    "name":"spr_metal_crate",
+    "path":"sprites/spr_metal_crate/spr_metal_crate.yy",
   },
   "spriteMaskId":null,
   "visible":true,

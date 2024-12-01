@@ -15,5 +15,9 @@ function CheckForAnyGroundTile(x_check, y_check)
 	{
 		is_ground = true;
 	}
+	if (place_meeting(x_check, y_check, obj_ground_crate))
+	{
+		is_ground = true;
+	}
 	return is_ground;
 }

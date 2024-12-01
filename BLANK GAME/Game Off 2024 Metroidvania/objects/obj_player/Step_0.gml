@@ -180,9 +180,18 @@ if (state == "dash")
 //crate breaking
 if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash == false))
 {
-	if (global.player_weapon = "plank")
+	if (global.player_weapon == "plank")
 	{
 		instance_destroy(obj_crate);
+	}
+}
+//metal crate breaking
+if (distance_to_object(obj_crate_metal) < 10)
+{
+	if ((global.player_weapon == "crowbar") && (can_dash == false))
+	{
+		global.basement = true;
+		instance_destroy(obj_crate_metal);
 	}
 }
 
