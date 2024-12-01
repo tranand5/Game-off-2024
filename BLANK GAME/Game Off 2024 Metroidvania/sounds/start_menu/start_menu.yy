@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":83.29248,
+  "duration":83.31196,
   "name":"start_menu",
   "parent":{
     "name":"Sounds",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"start_menu.wav",
   "type":0,
-  "volume":0.66,
+  "volume":0.3,
 }

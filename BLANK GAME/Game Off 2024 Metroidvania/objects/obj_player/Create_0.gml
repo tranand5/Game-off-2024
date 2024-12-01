@@ -105,6 +105,10 @@ switch (global.last_room)
 	}
 	break;
 	
+	case "basement":
+		//
+	break;
+	
 	default:
 		//
 	break;
