@@ -17,9 +17,9 @@ array_set(all_ground_tiles, 1, obj_ground_up_left);
 array_set(all_ground_tiles, 2, obj_ground_up_right);
 
 // Movement values
-player_concrete = choose(footstep_1_con,footstep_2_con,footstep_3_con, footstep_4_con);
-player_grass = choose(footstep_1_grass, footstep_2_grass, footstep_3_grass, footsteps_4_grass);
-player_wood = choose(footsteps_1_wood, footsteps_2_wood, footsteps_3_wood, footsteps_4_wood);
+global.player_concrete = footstep_3_con;
+global.player_grass = footstep_1_grass;
+global.player_wood = footsteps_1_wood;
 player_dash = choose(dash_1, dash_2, dash_3, dash_4);
 player_jump = choose(jump_1, jump_2, jump_3, jump_4);
 

@@ -15,12 +15,12 @@ if (global.controls = "arrows")
 }
 if (keyboard_check_pressed(ord("A") || ord("D")))
 {
-	audio_play_sound(player_concrete, 10, true);
+	audio_play_sound(global.player_concrete, 10, true);
 }
 
 if keyboard_check_released(ord("A") || ord("D"))
 	{
-		audio_stop_sound(player_concrete);
+		audio_stop_sound(global.player_concrete);
 	}
 //	Calculate Speed
 //x direction
