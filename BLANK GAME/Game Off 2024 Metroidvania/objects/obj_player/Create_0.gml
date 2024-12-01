@@ -1,7 +1,7 @@
 //gmwRegisterObject(id, global.DEFAULT_GROUP, "obj_player");
 
 //movement init
-move_speed = 6;
+move_speed = 7;
 dash_speed = 20;
 jump_speed = 22;
 grav = 1;
