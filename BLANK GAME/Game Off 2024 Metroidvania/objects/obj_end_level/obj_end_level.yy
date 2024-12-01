@@ -34,5 +34,5 @@
     "path":"sprites/spr_end_level/spr_end_level.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

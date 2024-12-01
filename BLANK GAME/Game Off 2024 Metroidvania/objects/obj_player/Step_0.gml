@@ -44,6 +44,7 @@ if (CheckForAnyGroundTile(x, y + 2) == true)
 	{
 		x_speed = 0;
 	}
+	//
 	if (keyboard_check_pressed(vk_space))
 	{
 		y_speed = -jump_speed;
@@ -176,16 +177,6 @@ if (state == "dash")
 	}
 }
 
-//	Weapon Switching System
-//equip plank
-if (!instance_exists(obj_plank) && (global.player_weapon == "plank"))
-{
-	instance_create_layer(x, y, "Instances", obj_plank);
-}
-if (!instance_exists(obj_crowbar) && (global.player_weapon == "crowbar"))
-{
-	instance_create_layer(x, y, "Instances", obj_crowbar);
-}
 //crate breaking
 if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash == false))
 {
@@ -194,6 +185,31 @@ if ((position_meeting(x + x_speed, y, obj_crate)) && (can_dash == false))
 		instance_destroy(obj_crate);
 	}
 }
+
+//	Weapon Switching System
+//spawn plank
+//if (!instance_exists(obj_plank) && (global.player_weapon == "plank"))
+//{
+//	instance_create_layer(x, y, "Instances", obj_plank);
+//}
+//if (instance_exists(obj_plank) && (global.player_weapon == "plank"))
+//{
+//	obj_plank.visible = false;
+//}
+////spawn crowbar
+//if (!instance_exists(obj_crowbar) && (global.player_weapon == "crowbar"))
+//{
+//	instance_create_layer(x, y, "Instances", obj_crowbar);
+//}
+//if (instance_exists(obj_crowbar) && (global.player_weapon == "crowbar"))
+//{
+//	obj_plank.visible = false;
+//}
+//if (!instance_exists(obj_crowbar) && (global.player_weapon == "crowbar"))
+//{
+//	instance_create_layer(x, y, "Instances", obj_crowbar);
+//}
+
 
 // Pause menu system
 //if (keyboard_check_pressed(vk_escape))

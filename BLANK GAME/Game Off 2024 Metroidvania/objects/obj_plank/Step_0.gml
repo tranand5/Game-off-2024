@@ -11,3 +11,9 @@ if (global.player_weapon == "plank")
 		y = obj_player.y;
 	}
 }
+
+//delete self
+if (global.player_weapon = "crowbar")
+{
+	instance_destroy(self);
+}

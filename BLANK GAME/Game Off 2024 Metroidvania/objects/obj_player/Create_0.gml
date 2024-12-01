@@ -85,6 +85,11 @@ switch (global.last_room)
 			x = 1850;
 			y = 530;
 		}
+		if (room == rm_garden)
+		{
+			x = 800;
+			y = 1100;
+		}
 	break;
 	
 	case "attic":

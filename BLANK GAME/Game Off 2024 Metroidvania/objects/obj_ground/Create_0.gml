@@ -1,4 +1,5 @@
 image_speed = 0;
+breakable = false;
 //	Sprite Switcher
 // Index 0 = Indside
 //		 1 = Front Lawn
