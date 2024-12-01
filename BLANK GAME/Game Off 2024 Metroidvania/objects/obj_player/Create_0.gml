@@ -3,7 +3,7 @@
 //movement init
 move_speed = 7;
 dash_speed = 20;
-jump_speed = 22;
+jump_speed = 25;
 grav = 1;
 x_direction = 0;
 x_speed = 0;
@@ -95,8 +95,8 @@ switch (global.last_room)
 	case "attic":
 	if (room == rm_second_floor)
 	{
-		x = 2293;
-		y = 194;
+		x = 2112;
+		y = 336;
 	}
 	if (room == rm_garden)
 	{

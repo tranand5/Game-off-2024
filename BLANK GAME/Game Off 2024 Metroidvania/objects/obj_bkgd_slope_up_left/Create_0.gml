@@ -15,4 +15,16 @@ switch (room)
 	case rm_first_floor:
 		image_index = 1;
 	break;
+	
+	case rm_second_floor:
+		image_index = 1;
+	break;
+	
+	case rm_attic:
+		image_index = 1;
+	break;
+	
+	default:
+		//
+	break;
 }
